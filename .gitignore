@@ -1,0 +1,6 @@
+
+out/**
+*.vec
+*.so
+log*/
+logs/
