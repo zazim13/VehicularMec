@@ -19,8 +19,9 @@
 
 //MEWarningAlertPacket
 //#include "nodes/mec/MECPlatform/MECAppPacket_Types.h"
-#include "./packets/WarningAlertPacket_m.h"
+#include "./packets/PingPongPacket_Types.h"
 #include "./packets/PingPongPacket_m.h"
+
 
 #include "nodes/mec/MECPlatform/ServiceRegistry/ServiceRegistry.h"
 
@@ -31,6 +32,8 @@
 #include <ctime>
 #include <fmt/format.h>
 
+#include  "apps/mec/MecApps/packets/ProcessingTimeMessage_m.h"
+#include "utility.h"
 
 using namespace std;
 using namespace omnetpp;
@@ -65,42 +68,73 @@ class MECPingPongApp : public MecAppBase
     inet::L3Address ueAppAddress;
     int ueAppPort;
 
-
+    int iDframe_;
     int size_;
     std::string subId;
 
+
+    inet::TcpSocket* serviceSocket_;
+    inet::TcpSocket* mp1Socket_;
+
+    HttpBaseMessage* mp1HttpMessage;
+    HttpBaseMessage* serviceHttpMessage;
+
+
+
     // circle danger zone
+    double Radius_;
     cOvalFigure * circle;
     double centerPositionX;
     double centerPositionY;
     double radius;
 
+
+    int idFrame__ ;
     std::shared_ptr<spdlog::logger> myLogger;
     std::string csv_filename;
+    std::string csv_filename_total;
+    std::string csv_filename_send_total;
+    std::string csv_filename_arrival_time;
+    std::string csv_filename_sendnei_time;
+    static int counter;
+    static omnetpp::simsignal_t mecapp_ul_delaySignal;
+    static omnetpp::simsignal_t mecapp_pk_rcv_sizeSignal;
 
     int numCars;
+    int row =0 ;
+    double processingTime_;
+    double maxCpuSpeed_;
+    int nbSentMsg;
+    cQueue pingPongpacketQueue_;
+    cMessage* pingPongprocessMessage_;;
 
     protected:
         virtual int numInitStages() const override { return inet::NUM_INIT_STAGES; }
         virtual void initialize(int stage) override;
-        virtual void handleMessage(cMessage *msg) override;
+        //virtual void handleMessage(cMessage *msg) override;
 
         virtual void finish() override;
 
-        virtual void handleServiceMessage() override;
-        virtual void handleMp1Message() override;
+        virtual void handleServiceMessage(int connId) override;
+        virtual void handleMp1Message(int connId) override;
 
         virtual void handleUeMessage(omnetpp::cMessage *msg) override;
 
         virtual void modifySubscription();
         virtual void sendSubscription();
         virtual void sendDeleteSubscription();
-
+        virtual void handleHttpMessage(int connId);
         virtual void handleSelfMessage(cMessage *msg) override;
-
+        virtual void handleProcessedMessage(cMessage *msg);
+        virtual void sendPingPacket(cMessage *msg);
+        virtual double computationTime(int N);
+        virtual double scheduleNextMsg(cMessage* msg) override;
+        virtual void handleMessage(omnetpp::cMessage *msg) override;
 
 //        /* TCPSocket::CallbackInterface callback methods */
        virtual void established(int connId) override;
+       double uniform(int min,int max);
+       virtual void sendPingPacketNeighboring(cMessage *msg);
 
     public:
        MECPingPongApp();

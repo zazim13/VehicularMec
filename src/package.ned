@@ -1,3 +1,2 @@
-package syntetictracegenerator;
+package simu5g;
 
-@license(LGPL);

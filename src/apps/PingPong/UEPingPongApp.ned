@@ -10,9 +10,10 @@
 //
 
 
-package syntetictracegenerator.apps.PingPong;
+package simu5g.apps.PingPong;
 
 import inet.applications.contract.IApp;
+import org.car2x.veins.modules.application.ieee80211p.DemoBaseApplLayer;
 
 
  //
@@ -30,9 +31,10 @@ import inet.applications.contract.IApp;
  //
 
 
-simple UEPingPongApp like IApp
+simple UEPingPongApp extends DemoBaseApplLayer  like IApp
 {
-    parameters:       
+    parameters:     
+         @class(UEPingPongApp);  
          @display("i=block/source");    
         
         //connection infos
@@ -44,6 +46,15 @@ simple UEPingPongApp like IApp
         
         int tos = default(-1); // if not -1, set the Type Of Service (IPv4) / Traffic Class (IPv6) field of sent packets to this value
         
+        
+        
+        double payloadSize = default(1200); //default in case no specific name is set
+    	double interReqTime = default(0.01);//default in case no specific name is set
+    
+    	
+    	@signal[failed_to_start_mecApp_Signal](type="bool");
+		@statistic[failed_to_start_mecApp_](title="Fails to start MecApp"; unit="nb"; source="failed_to_start_mecApp_Signal"; record=vector,histogram,sum,count);
+    	
         //autoscheduling infos
         double period @unit("s") = default(1s);
         double startTime @unit("s") = default(0s); 
@@ -59,8 +70,9 @@ simple UEPingPongApp like IApp
         bool logger = default(false);
         string interfaceTableModule;
         
-        int numCars;
-                    
+        string name; 
+        
+             
     gates:
         output socketOut;
         input socketIn;

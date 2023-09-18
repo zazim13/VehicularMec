@@ -14,14 +14,19 @@
 
 
 
-#define START_PINGPONG "StartPingPong"
-//#define START_ACK "StartAck"
-//#define START_NACK "StartNack"
+#define START_PINGPONG "SendingPing"
+#define ANS_PINGPONG "SendingPong"
+#define PINGPONG_PACKET "PingPongPacket"
+#define DISS "Disseminating"
 
-//#define STOP_WARNING "StoptWarning"
-//#define STOP_ACK "StopAck"
-//#define STOP_NACK "StopNack"
+#define START_WARNING "StartWarning"
+#define START_ACK "StartAck"
+#define START_NACK "StartNack"
 
-//#define WARNING_ALERT "WarningAlert"
+#define STOP_WARNING "StoptWarning"
+#define STOP_ACK "StopAck"
+#define STOP_NACK "StopNack"
+
+#define WARNING_ALERT "WarningAlert"
 
 #endif /* APPS_MEC_PINGPONG_PACKETS_PINGPONGPACKET_TYPES_H_ */

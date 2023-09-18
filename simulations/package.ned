@@ -1,3 +1,2 @@
-package syntetictracegenerator.simulations;
+package simu5g.simulations;
 
-@license(LGPL);

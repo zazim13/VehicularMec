@@ -9,7 +9,7 @@
 // and cannot be removed from it.
 //
 
-package syntetictracegenerator.apps.PingPong;
+package simu5g.apps.PingPong;
 
 import inet.applications.contract.IApp;
 import simu5g.nodes.mec.MECPlatform.IMECApp;
@@ -38,6 +38,7 @@ simple MECPingPongApp like IMECApp, IApp
         int packetSize = default(10);
         string interfaceTableModule = default("");
         
+        int mecAppIndex;
         int mecAppId;
         int localUePort;
         
@@ -48,6 +49,7 @@ simple MECPingPongApp like IMECApp, IApp
         double requiredRam @unit("B");
         double requiredDisk @unit("B");
         double requiredCpu;
+        double radius = default(600); 
 
 		// IApp parameters
 		int timeToLive = default(-1); // if not -1, set the TTL (IPv4) or Hop Limit (IPv6) field of sent packets to this value
@@ -55,7 +57,12 @@ simple MECPingPongApp like IMECApp, IApp
         int tos = default(-1); // if not -1, set the Type Of Service (IPv4) / Traffic Class (IPv6) field of sent packets to this value
 		
 		bool logger = default(false);
-		int numCars;
+		double maxCpuSpeed;
+		
+		@signal[mecapp_ul_delaySignal];
+		@statistic[mecappul_delay](title="e2e delay"; unit="notyet"; source="mecapp_ul_delaySignal"; record=timeavg,mean,vector,histogram,"last(sumPerDuration)",sum);
+		@signal[mecapp_pk_rcv_sizeSignal];
+		@statistic[mecapp_pk_rcv_size](title="size of preceived packet"; unit="notyet"; source="mecapp_pk_rcv_sizeSignal"; record=timeavg,mean,vector,histogram,"last(sumPerDuration)",sum);
 
     gates:
 	  input mePlatformIn;

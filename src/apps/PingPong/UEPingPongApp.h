@@ -25,15 +25,28 @@
 
 //WarningAlertPacket
 #include "nodes/mec/MECPlatform/MEAppPacket_Types.h"
-#include "./packets/WarningAlertPacket_m.h"
+#include "./packets/PingPongPacket_Types.h"
+#include "./packets/PingPongPacket_m.h"
 
 #include "spdlog/spdlog.h"  // logging library
 #include "spdlog/sinks/basic_file_sink.h"
 #include <ctime>
 #include <fmt/format.h>
 
+#include "vehicular_mec.h"
+#include "veins_inet/VeinsInetMobility.h"
+#include "veins/modules/utility/TimerManager.h"
+#include "veins_inet/veins_inet.h"
+
+#include "veins/modules/application/ieee80211p/DemoBaseApplLayer.h"
+#include "veins/modules/mobility/traci/TraCIMobility.h"
+#include "veins/modules/mobility/traci/TraCICommandInterface.h"
+
+#include "utility.h"
 
 using namespace omnetpp;
+using namespace veins;
+
 
 /**
  * This is a UE app that asks to a Device App to instantiate the MECWarningAlertApp.
@@ -49,17 +62,31 @@ using namespace omnetpp;
  * 4) send delete MEC app to the Device App
  */
 
-class UEPingPongApp: public cSimpleModule
+
+
+
+class VEHICULAR_MEC_API UEPingPongApp:  public veins::BaseApplLayer
 {
+
+    static omnetpp::simsignal_t failed_to_start_mecApp_Signal;
+
 
     //communication to device app and mec app
     inet::UdpSocket socket;
-
+    int nbRcvMsg;
     int size_;
     simtime_t period_;
     int localPort_;
     int deviceAppPort_;
     inet::L3Address deviceAppAddress_;
+    std::string App_name_;
+    std::string UE_name_;
+    unsigned int iDframe_ ;
+
+    double payloadSize_;
+    double interReqTime_;
+    int test;
+
 
     char* sourceSimbolicAddress;            //Ue[x]
     char* deviceSimbolicAppAddress_;              //meHost.virtualisationInfrastructure
@@ -71,45 +98,62 @@ class UEPingPongApp: public cSimpleModule
     std::string mecAppName;
 
     // mobility informations
+    TraCIMobility* mobility;
+    TraCICommandInterface* traci;
+    TraCICommandInterface::Vehicle* traciVehicle;
+    TraCICommandInterface::LaneAreaDetector* traciLane;
+
+
     cModule* ue;
-    inet::IMobility *mobility;
+    //inet::IMobility *mobility;
     inet::Coord position;
 
     //scheduling
     cMessage *selfStart_;
     cMessage *selfStop_;
-
     cMessage *selfMecAppStart_;
-
     cMessage *selfSendPing_;
 
     // uses to write in a log a file
     bool log;
+    bool mecApp_on;
 
     int numCars;
 
     std::shared_ptr<spdlog::logger> myLogger;
+    std::shared_ptr<spdlog::logger> Fails_Logger;
+
+
 
     public:
         ~UEPingPongApp();
         UEPingPongApp();
+        void initialize(int stage) override;
 
     protected:
+        std::string csv_filename_fails;
+        std::string csv_filename_total;
+        std::string csv_filename_rcv_total;
+        std::string csv_filename_send_total;
 
+        int nb_fails = 0;
         virtual int numInitStages() const { return inet::NUM_INIT_STAGES; }
-        void initialize(int stage);
+
         virtual void handleMessage(cMessage *msg);
         virtual void finish();
 
         void sendStartMEWarningAlertApp();
-        void sendMessageToMECApp();
+
         void sendStopMEWarningAlertApp();
 
-        void sendPingPacket();
+        void sendPingPacket(simtime_t t);
 
         void handleAckStartMEWarningAlertApp(cMessage* msg);
         void handleInfoMEWarningAlertApp(cMessage* msg);
         void handleAckStopMEWarningAlertApp(cMessage* msg);
+        double uniform(int min,int max);
+
+
 };
 
 #endif
