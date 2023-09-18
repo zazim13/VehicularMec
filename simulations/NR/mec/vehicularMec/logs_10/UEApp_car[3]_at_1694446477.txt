@@ -1,0 +1,1133 @@
+[2023-09-11 17:34:37.408] [UELoggertest_6] [info] initialized:  - 1
+[2023-09-11 17:34:44.399] [UELoggertest_6] [info] Attempt to strat mecApp:  - 1.1
+[2023-09-11 17:34:48.887] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Will trigger sending of Ping messages - 1.229s
+[2023-09-11 17:34:48.893] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.229s will wait 0.01s to send again
+[2023-09-11 17:34:50.085] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.239s will wait 0.01s to send again
+[2023-09-11 17:34:50.543] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:34:50.543] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.241s
+[2023-09-11 17:34:51.785] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.249s will wait 0.01s to send again
+[2023-09-11 17:34:52.148] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:34:52.148] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.251s
+[2023-09-11 17:34:53.127] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.259s will wait 0.01s to send again
+[2023-09-11 17:34:53.522] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:34:53.522] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.261s
+[2023-09-11 17:34:55.283] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.269s will wait 0.01s to send again
+[2023-09-11 17:34:55.912] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:34:55.912] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.271s
+[2023-09-11 17:34:58.097] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.279s will wait 0.01s to send again
+[2023-09-11 17:34:59.046] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:34:59.046] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.281s
+[2023-09-11 17:35:24.478] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.289s will wait 0.01s to send again
+[2023-09-11 17:35:25.263] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:25.263] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.294s
+[2023-09-11 17:35:25.982] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.299s will wait 0.01s to send again
+[2023-09-11 17:35:26.315] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:26.315] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.301s
+[2023-09-11 17:35:27.400] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.309s will wait 0.01s to send again
+[2023-09-11 17:35:28.347] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:28.347] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.314s
+[2023-09-11 17:35:28.929] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.319s will wait 0.01s to send again
+[2023-09-11 17:35:29.266] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:29.266] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.321s
+[2023-09-11 17:35:30.408] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.329s will wait 0.01s to send again
+[2023-09-11 17:35:31.068] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:31.068] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.334s
+[2023-09-11 17:35:31.811] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.339s will wait 0.01s to send again
+[2023-09-11 17:35:32.843] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:32.843] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.344s
+[2023-09-11 17:35:33.583] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.349s will wait 0.01s to send again
+[2023-09-11 17:35:34.951] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:34.951] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.3565s
+[2023-09-11 17:35:35.461] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.359s will wait 0.01s to send again
+[2023-09-11 17:35:35.921] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:35.921] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.361s
+[2023-09-11 17:35:37.032] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.369s will wait 0.01s to send again
+[2023-09-11 17:35:37.439] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:37.440] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.371s
+[2023-09-11 17:35:38.452] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.379s will wait 0.01s to send again
+[2023-09-11 17:35:38.782] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:38.782] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.381s
+[2023-09-11 17:35:39.895] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.389s will wait 0.01s to send again
+[2023-09-11 17:35:40.191] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:40.191] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.391s
+[2023-09-11 17:35:41.184] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.399s will wait 0.01s to send again
+[2023-09-11 17:35:41.421] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:41.421] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.401s
+[2023-09-11 17:35:42.405] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.409s will wait 0.01s to send again
+[2023-09-11 17:35:43.022] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:43.022] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.4135s
+[2023-09-11 17:35:43.723] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.419s will wait 0.01s to send again
+[2023-09-11 17:35:44.448] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:44.448] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.424s
+[2023-09-11 17:35:45.213] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.429s will wait 0.01s to send again
+[2023-09-11 17:35:45.519] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:45.519] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.431s
+[2023-09-11 17:35:46.899] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.439s will wait 0.01s to send again
+[2023-09-11 17:35:47.465] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:47.465] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.441s
+[2023-09-11 17:35:48.817] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.449s will wait 0.01s to send again
+[2023-09-11 17:35:49.194] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:49.194] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.451s
+[2023-09-11 17:35:50.342] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.459s will wait 0.01s to send again
+[2023-09-11 17:35:51.238] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:51.238] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.464s
+[2023-09-11 17:35:52.172] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.469s will wait 0.01s to send again
+[2023-09-11 17:35:52.694] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:52.694] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.471s
+[2023-09-11 17:35:53.950] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.479s will wait 0.01s to send again
+[2023-09-11 17:35:54.422] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:54.422] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.481s
+[2023-09-11 17:35:55.546] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.489s will wait 0.01s to send again
+[2023-09-11 17:35:55.969] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:55.969] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.491s
+[2023-09-11 17:35:57.037] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.499s will wait 0.01s to send again
+[2023-09-11 17:35:57.539] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:57.539] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.501s
+[2023-09-11 17:35:58.733] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.509s will wait 0.01s to send again
+[2023-09-11 17:35:59.117] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:35:59.118] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.511s
+[2023-09-11 17:36:00.315] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.519s will wait 0.01s to send again
+[2023-09-11 17:36:00.623] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:00.623] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.521s
+[2023-09-11 17:36:01.645] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.529s will wait 0.01s to send again
+[2023-09-11 17:36:01.997] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:01.997] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.531s
+[2023-09-11 17:36:03.142] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.539s will wait 0.01s to send again
+[2023-09-11 17:36:03.462] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:03.462] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.541s
+[2023-09-11 17:36:04.409] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.549s will wait 0.01s to send again
+[2023-09-11 17:36:05.141] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:05.141] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.554s
+[2023-09-11 17:36:05.714] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.559s will wait 0.01s to send again
+[2023-09-11 17:36:06.407] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:06.407] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.561s
+[2023-09-11 17:36:07.596] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.569s will wait 0.01s to send again
+[2023-09-11 17:36:07.915] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:07.915] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.571s
+[2023-09-11 17:36:08.841] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.579s will wait 0.01s to send again
+[2023-09-11 17:36:09.127] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:09.127] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.581s
+[2023-09-11 17:36:10.249] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.589s will wait 0.01s to send again
+[2023-09-11 17:36:10.499] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:10.499] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.591s
+[2023-09-11 17:36:11.493] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.599s will wait 0.01s to send again
+[2023-09-11 17:36:11.824] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:11.824] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.601s
+[2023-09-11 17:36:13.247] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.609s will wait 0.01s to send again
+[2023-09-11 17:36:14.240] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:14.240] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.614s
+[2023-09-11 17:36:14.857] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.619s will wait 0.01s to send again
+[2023-09-11 17:36:15.253] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:15.253] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.621s
+[2023-09-11 17:36:16.808] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.629s will wait 0.01s to send again
+[2023-09-11 17:36:17.260] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:17.260] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.631s
+[2023-09-11 17:36:18.334] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.639s will wait 0.01s to send again
+[2023-09-11 17:36:18.762] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:18.763] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.641s
+[2023-09-11 17:36:20.029] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.649s will wait 0.01s to send again
+[2023-09-11 17:36:21.103] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:21.103] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.654s
+[2023-09-11 17:36:22.016] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.659s will wait 0.01s to send again
+[2023-09-11 17:36:22.403] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:22.403] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.661s
+[2023-09-11 17:36:23.685] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.669s will wait 0.01s to send again
+[2023-09-11 17:36:24.336] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:24.336] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.6735s
+[2023-09-11 17:36:24.941] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.679s will wait 0.01s to send again
+[2023-09-11 17:36:25.457] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:25.457] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.681s
+[2023-09-11 17:36:26.788] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.689s will wait 0.01s to send again
+[2023-09-11 17:36:27.584] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:27.584] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.694s
+[2023-09-11 17:36:28.122] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.699s will wait 0.01s to send again
+[2023-09-11 17:36:28.421] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:28.421] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.701s
+[2023-09-11 17:36:29.491] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.709s will wait 0.01s to send again
+[2023-09-11 17:36:29.955] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:29.955] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.711s
+[2023-09-11 17:36:31.116] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.719s will wait 0.01s to send again
+[2023-09-11 17:36:31.490] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:31.490] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.721s
+[2023-09-11 17:36:32.535] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.729s will wait 0.01s to send again
+[2023-09-11 17:36:32.934] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:32.934] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.731s
+[2023-09-11 17:36:33.919] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.739s will wait 0.01s to send again
+[2023-09-11 17:36:34.303] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:34.303] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.741s
+[2023-09-11 17:36:35.688] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.749s will wait 0.01s to send again
+[2023-09-11 17:36:36.041] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:36.041] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.751s
+[2023-09-11 17:36:37.291] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.759s will wait 0.01s to send again
+[2023-09-11 17:36:37.674] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:37.675] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.761s
+[2023-09-11 17:36:38.562] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.769s will wait 0.01s to send again
+[2023-09-11 17:36:39.273] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:39.273] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.7735s
+[2023-09-11 17:36:40.123] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.779s will wait 0.01s to send again
+[2023-09-11 17:36:40.411] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:40.411] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.781s
+[2023-09-11 17:36:41.425] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.789s will wait 0.01s to send again
+[2023-09-11 17:36:41.876] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:41.876] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.791s
+[2023-09-11 17:36:42.999] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.799s will wait 0.01s to send again
+[2023-09-11 17:36:43.501] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:43.501] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.801s
+[2023-09-11 17:36:44.788] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.809s will wait 0.01s to send again
+[2023-09-11 17:36:45.164] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:45.164] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.811s
+[2023-09-11 17:36:46.508] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.819s will wait 0.01s to send again
+[2023-09-11 17:36:47.647] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:47.647] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.824s
+[2023-09-11 17:36:48.406] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.829s will wait 0.01s to send again
+[2023-09-11 17:36:48.694] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:48.694] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.831s
+[2023-09-11 17:36:49.825] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.839s will wait 0.01s to send again
+[2023-09-11 17:36:50.869] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:50.869] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.8435s
+[2023-09-11 17:36:51.649] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.849s will wait 0.01s to send again
+[2023-09-11 17:36:52.008] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:52.008] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.851s
+[2023-09-11 17:36:52.984] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.859s will wait 0.01s to send again
+[2023-09-11 17:36:53.297] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:53.297] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.861s
+[2023-09-11 17:36:54.387] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.869s will wait 0.01s to send again
+[2023-09-11 17:36:54.689] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:54.689] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.871s
+[2023-09-11 17:36:55.625] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.879s will wait 0.01s to send again
+[2023-09-11 17:36:56.079] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:56.079] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.8815s
+[2023-09-11 17:36:57.125] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.889s will wait 0.01s to send again
+[2023-09-11 17:36:57.429] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:57.429] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.891s
+[2023-09-11 17:36:58.433] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.899s will wait 0.01s to send again
+[2023-09-11 17:36:58.693] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:36:58.693] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.901s
+[2023-09-11 17:36:59.705] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.909s will wait 0.01s to send again
+[2023-09-11 17:37:00.002] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:00.003] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.911s
+[2023-09-11 17:37:01.007] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.919s will wait 0.01s to send again
+[2023-09-11 17:37:01.257] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:01.257] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.921s
+[2023-09-11 17:37:02.290] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.929s will wait 0.01s to send again
+[2023-09-11 17:37:02.612] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:02.612] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.931s
+[2023-09-11 17:37:03.596] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.939s will wait 0.01s to send again
+[2023-09-11 17:37:04.317] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:04.317] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.944s
+[2023-09-11 17:37:05.040] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.949s will wait 0.01s to send again
+[2023-09-11 17:37:05.299] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:05.299] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.951s
+[2023-09-11 17:37:06.541] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.959s will wait 0.01s to send again
+[2023-09-11 17:37:06.830] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:06.830] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.961s
+[2023-09-11 17:37:07.922] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.969s will wait 0.01s to send again
+[2023-09-11 17:37:08.168] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:08.168] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.971s
+[2023-09-11 17:37:09.144] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.979s will wait 0.01s to send again
+[2023-09-11 17:37:09.590] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:09.590] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.9815s
+[2023-09-11 17:37:10.577] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.989s will wait 0.01s to send again
+[2023-09-11 17:37:10.857] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:10.857] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 1.991s
+[2023-09-11 17:37:11.903] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  1.999s will wait 0.01s to send again
+[2023-09-11 17:37:12.190] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:12.190] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.001s
+[2023-09-11 17:37:13.155] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.009s will wait 0.01s to send again
+[2023-09-11 17:37:13.353] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:13.353] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.0105s
+[2023-09-11 17:37:14.544] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.019s will wait 0.01s to send again
+[2023-09-11 17:37:15.023] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:15.023] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.021s
+[2023-09-11 17:37:16.297] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.029s will wait 0.01s to send again
+[2023-09-11 17:37:17.457] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:17.457] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.0365s
+[2023-09-11 17:37:17.703] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.039s will wait 0.01s to send again
+[2023-09-11 17:37:18.546] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:18.546] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.044s
+[2023-09-11 17:37:19.193] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.049s will wait 0.01s to send again
+[2023-09-11 17:37:19.537] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:19.537] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.0505s
+[2023-09-11 17:37:20.668] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.059s will wait 0.01s to send again
+[2023-09-11 17:37:20.875] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:20.875] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.0605s
+[2023-09-11 17:37:21.748] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.069s will wait 0.01s to send again
+[2023-09-11 17:37:21.935] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:21.935] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.0705s
+[2023-09-11 17:37:23.274] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.079s will wait 0.01s to send again
+[2023-09-11 17:37:23.558] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:23.558] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.0805s
+[2023-09-11 17:37:24.687] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.089s will wait 0.01s to send again
+[2023-09-11 17:37:24.902] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:24.902] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.0905s
+[2023-09-11 17:37:25.824] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.099s will wait 0.01s to send again
+[2023-09-11 17:37:26.020] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:26.020] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1005s
+[2023-09-11 17:37:27.101] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.109s will wait 0.01s to send again
+[2023-09-11 17:37:27.401] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:27.401] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1105s
+[2023-09-11 17:37:28.383] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.119s will wait 0.01s to send again
+[2023-09-11 17:37:28.641] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:28.641] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1205s
+[2023-09-11 17:37:29.721] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.129s will wait 0.01s to send again
+[2023-09-11 17:37:29.948] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:29.948] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1305s
+[2023-09-11 17:37:31.229] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.139s will wait 0.01s to send again
+[2023-09-11 17:37:31.422] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:31.422] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1405s
+[2023-09-11 17:37:32.365] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.149s will wait 0.01s to send again
+[2023-09-11 17:37:32.596] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:32.596] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1505s
+[2023-09-11 17:37:33.575] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.159s will wait 0.01s to send again
+[2023-09-11 17:37:33.901] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:33.901] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1605s
+[2023-09-11 17:37:35.054] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.169s will wait 0.01s to send again
+[2023-09-11 17:37:35.307] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:35.307] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1705s
+[2023-09-11 17:37:36.280] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.179s will wait 0.01s to send again
+[2023-09-11 17:37:36.460] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:36.460] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1805s
+[2023-09-11 17:37:37.363] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.189s will wait 0.01s to send again
+[2023-09-11 17:37:37.614] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:37.614] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.1905s
+[2023-09-11 17:37:38.618] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.199s will wait 0.01s to send again
+[2023-09-11 17:37:38.810] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:38.810] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2005s
+[2023-09-11 17:37:39.852] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.209s will wait 0.01s to send again
+[2023-09-11 17:37:40.067] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:40.067] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2105s
+[2023-09-11 17:37:41.067] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.219s will wait 0.01s to send again
+[2023-09-11 17:37:41.262] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:41.262] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2205s
+[2023-09-11 17:37:42.270] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.229s will wait 0.01s to send again
+[2023-09-11 17:37:42.474] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:42.474] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2305s
+[2023-09-11 17:37:43.470] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.239s will wait 0.01s to send again
+[2023-09-11 17:37:43.757] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:43.757] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.241s
+[2023-09-11 17:37:44.787] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.249s will wait 0.01s to send again
+[2023-09-11 17:37:45.050] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:45.050] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2505s
+[2023-09-11 17:37:45.996] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.259s will wait 0.01s to send again
+[2023-09-11 17:37:46.284] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:46.284] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2605s
+[2023-09-11 17:37:47.124] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.269s will wait 0.01s to send again
+[2023-09-11 17:37:47.474] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:47.474] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2705s
+[2023-09-11 17:37:48.637] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.279s will wait 0.01s to send again
+[2023-09-11 17:37:48.896] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:48.896] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2805s
+[2023-09-11 17:37:50.014] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.289s will wait 0.01s to send again
+[2023-09-11 17:37:50.224] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:50.224] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.2905s
+[2023-09-11 17:37:51.251] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.299s will wait 0.01s to send again
+[2023-09-11 17:37:51.475] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:51.475] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3005s
+[2023-09-11 17:37:52.445] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.309s will wait 0.01s to send again
+[2023-09-11 17:37:52.776] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:52.776] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3105s
+[2023-09-11 17:37:53.759] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.319s will wait 0.01s to send again
+[2023-09-11 17:37:54.005] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:54.005] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3205s
+[2023-09-11 17:37:55.159] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.329s will wait 0.01s to send again
+[2023-09-11 17:37:55.451] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:55.451] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.331s
+[2023-09-11 17:37:56.423] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.339s will wait 0.01s to send again
+[2023-09-11 17:37:56.638] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:56.638] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3405s
+[2023-09-11 17:37:57.696] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.349s will wait 0.01s to send again
+[2023-09-11 17:37:57.927] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:57.927] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3505s
+[2023-09-11 17:37:58.855] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.359s will wait 0.01s to send again
+[2023-09-11 17:37:59.057] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:37:59.057] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3605s
+[2023-09-11 17:38:00.158] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.369s will wait 0.01s to send again
+[2023-09-11 17:38:00.511] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:00.511] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3705s
+[2023-09-11 17:38:01.674] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.379s will wait 0.01s to send again
+[2023-09-11 17:38:01.957] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:01.957] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3805s
+[2023-09-11 17:38:02.939] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.389s will wait 0.01s to send again
+[2023-09-11 17:38:03.137] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:03.138] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.3905s
+[2023-09-11 17:38:04.207] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.399s will wait 0.01s to send again
+[2023-09-11 17:38:04.410] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:04.410] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4005s
+[2023-09-11 17:38:05.576] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.409s will wait 0.01s to send again
+[2023-09-11 17:38:05.850] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:05.850] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4105s
+[2023-09-11 17:38:06.820] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.419s will wait 0.01s to send again
+[2023-09-11 17:38:07.062] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:07.062] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4205s
+[2023-09-11 17:38:08.050] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.429s will wait 0.01s to send again
+[2023-09-11 17:38:08.289] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:08.289] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4305s
+[2023-09-11 17:38:09.290] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.439s will wait 0.01s to send again
+[2023-09-11 17:38:09.484] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:09.484] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4405s
+[2023-09-11 17:38:10.502] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.449s will wait 0.01s to send again
+[2023-09-11 17:38:10.721] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:10.721] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4505s
+[2023-09-11 17:38:11.766] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.459s will wait 0.01s to send again
+[2023-09-11 17:38:11.986] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:11.986] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4605s
+[2023-09-11 17:38:13.035] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.469s will wait 0.01s to send again
+[2023-09-11 17:38:13.328] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:13.328] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4705s
+[2023-09-11 17:38:14.274] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.479s will wait 0.01s to send again
+[2023-09-11 17:38:14.582] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:14.582] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4805s
+[2023-09-11 17:38:15.711] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.489s will wait 0.01s to send again
+[2023-09-11 17:38:15.935] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:15.935] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.4905s
+[2023-09-11 17:38:16.913] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.499s will wait 0.01s to send again
+[2023-09-11 17:38:17.147] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:17.147] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5005s
+[2023-09-11 17:38:18.196] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.509s will wait 0.01s to send again
+[2023-09-11 17:38:18.424] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:18.424] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5105s
+[2023-09-11 17:38:19.472] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.519s will wait 0.01s to send again
+[2023-09-11 17:38:19.705] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:19.705] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5205s
+[2023-09-11 17:38:20.878] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.529s will wait 0.01s to send again
+[2023-09-11 17:38:21.086] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:21.086] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5305s
+[2023-09-11 17:38:22.107] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.539s will wait 0.01s to send again
+[2023-09-11 17:38:22.421] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:22.421] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5405s
+[2023-09-11 17:38:23.415] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.549s will wait 0.01s to send again
+[2023-09-11 17:38:23.672] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:23.672] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5505s
+[2023-09-11 17:38:24.596] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.559s will wait 0.01s to send again
+[2023-09-11 17:38:24.852] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:24.852] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5605s
+[2023-09-11 17:38:25.998] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.569s will wait 0.01s to send again
+[2023-09-11 17:38:26.248] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:26.249] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5705s
+[2023-09-11 17:38:27.196] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.579s will wait 0.01s to send again
+[2023-09-11 17:38:27.430] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:27.430] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.5805s
+[2023-09-11 17:38:29.166] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.589s will wait 0.01s to send again
+[2023-09-11 17:38:29.596] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:29.596] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.591s
+[2023-09-11 17:38:30.785] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.599s will wait 0.01s to send again
+[2023-09-11 17:38:30.990] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:30.990] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6005s
+[2023-09-11 17:38:31.994] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.609s will wait 0.01s to send again
+[2023-09-11 17:38:32.175] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:32.175] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6105s
+[2023-09-11 17:38:33.217] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.619s will wait 0.01s to send again
+[2023-09-11 17:38:33.477] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:33.478] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6205s
+[2023-09-11 17:38:34.999] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.629s will wait 0.01s to send again
+[2023-09-11 17:38:35.252] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:35.252] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6305s
+[2023-09-11 17:38:36.540] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.639s will wait 0.01s to send again
+[2023-09-11 17:38:37.149] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:37.149] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6405s
+[2023-09-11 17:38:38.702] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.649s will wait 0.01s to send again
+[2023-09-11 17:38:39.125] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:39.125] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6505s
+[2023-09-11 17:38:40.644] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.659s will wait 0.01s to send again
+[2023-09-11 17:38:40.897] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:40.897] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6605s
+[2023-09-11 17:38:42.071] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.669s will wait 0.01s to send again
+[2023-09-11 17:38:42.291] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:42.291] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6705s
+[2023-09-11 17:38:43.475] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.679s will wait 0.01s to send again
+[2023-09-11 17:38:43.712] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:43.712] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6805s
+[2023-09-11 17:38:45.084] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.689s will wait 0.01s to send again
+[2023-09-11 17:38:45.295] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:45.295] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.6905s
+[2023-09-11 17:38:46.363] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.699s will wait 0.01s to send again
+[2023-09-11 17:38:46.573] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:46.573] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7005s
+[2023-09-11 17:38:47.660] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.709s will wait 0.01s to send again
+[2023-09-11 17:38:47.917] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:47.918] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7105s
+[2023-09-11 17:38:49.040] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.719s will wait 0.01s to send again
+[2023-09-11 17:38:49.229] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:49.229] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7205s
+[2023-09-11 17:38:50.254] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.729s will wait 0.01s to send again
+[2023-09-11 17:38:50.525] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:50.525] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7305s
+[2023-09-11 17:38:51.627] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.739s will wait 0.01s to send again
+[2023-09-11 17:38:51.890] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:51.890] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7405s
+[2023-09-11 17:38:52.959] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.749s will wait 0.01s to send again
+[2023-09-11 17:38:53.150] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:53.150] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7505s
+[2023-09-11 17:38:54.141] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.759s will wait 0.01s to send again
+[2023-09-11 17:38:54.338] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:54.338] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7605s
+[2023-09-11 17:38:55.396] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.769s will wait 0.01s to send again
+[2023-09-11 17:38:55.606] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:55.606] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7705s
+[2023-09-11 17:38:56.623] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.779s will wait 0.01s to send again
+[2023-09-11 17:38:56.828] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:56.828] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7805s
+[2023-09-11 17:38:57.888] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.789s will wait 0.01s to send again
+[2023-09-11 17:38:58.143] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:58.143] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.7905s
+[2023-09-11 17:38:59.256] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.799s will wait 0.01s to send again
+[2023-09-11 17:38:59.553] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:38:59.553] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8005s
+[2023-09-11 17:39:00.683] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.809s will wait 0.01s to send again
+[2023-09-11 17:39:00.909] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:00.909] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8105s
+[2023-09-11 17:39:01.886] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.819s will wait 0.01s to send again
+[2023-09-11 17:39:02.079] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:02.079] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8205s
+[2023-09-11 17:39:03.095] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.829s will wait 0.01s to send again
+[2023-09-11 17:39:03.311] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:03.311] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8305s
+[2023-09-11 17:39:04.282] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.839s will wait 0.01s to send again
+[2023-09-11 17:39:04.467] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:04.467] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8405s
+[2023-09-11 17:39:05.560] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.849s will wait 0.01s to send again
+[2023-09-11 17:39:05.785] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:05.785] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8505s
+[2023-09-11 17:39:06.828] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.859s will wait 0.01s to send again
+[2023-09-11 17:39:07.019] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:07.019] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8605s
+[2023-09-11 17:39:07.975] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.869s will wait 0.01s to send again
+[2023-09-11 17:39:08.257] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:08.257] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8705s
+[2023-09-11 17:39:09.171] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.879s will wait 0.01s to send again
+[2023-09-11 17:39:09.414] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:09.414] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8805s
+[2023-09-11 17:39:10.444] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.889s will wait 0.01s to send again
+[2023-09-11 17:39:10.664] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:10.664] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.8905s
+[2023-09-11 17:39:11.566] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.899s will wait 0.01s to send again
+[2023-09-11 17:39:11.763] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:11.763] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9005s
+[2023-09-11 17:39:12.568] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.909s will wait 0.01s to send again
+[2023-09-11 17:39:12.813] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:12.813] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9105s
+[2023-09-11 17:39:13.878] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.919s will wait 0.01s to send again
+[2023-09-11 17:39:14.100] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:14.100] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9205s
+[2023-09-11 17:39:15.237] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.929s will wait 0.01s to send again
+[2023-09-11 17:39:15.456] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:15.456] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9305s
+[2023-09-11 17:39:16.408] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.939s will wait 0.01s to send again
+[2023-09-11 17:39:16.589] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:16.590] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9405s
+[2023-09-11 17:39:17.566] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.949s will wait 0.01s to send again
+[2023-09-11 17:39:17.754] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:17.754] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9505s
+[2023-09-11 17:39:18.780] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.959s will wait 0.01s to send again
+[2023-09-11 17:39:18.981] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:18.981] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9605s
+[2023-09-11 17:39:20.108] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.969s will wait 0.01s to send again
+[2023-09-11 17:39:20.410] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:20.410] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9705s
+[2023-09-11 17:39:21.500] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.979s will wait 0.01s to send again
+[2023-09-11 17:39:21.697] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:21.697] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9805s
+[2023-09-11 17:39:22.638] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.989s will wait 0.01s to send again
+[2023-09-11 17:39:22.865] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:22.865] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 2.9905s
+[2023-09-11 17:39:23.879] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  2.999s will wait 0.01s to send again
+[2023-09-11 17:39:24.299] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:24.299] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.0005s
+[2023-09-11 17:39:25.525] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.009s will wait 0.01s to send again
+[2023-09-11 17:39:27.229] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.019s will wait 0.01s to send again
+[2023-09-11 17:39:27.333] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:27.334] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.0195s
+[2023-09-11 17:39:28.838] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:28.838] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.027s
+[2023-09-11 17:39:29.152] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.029s will wait 0.01s to send again
+[2023-09-11 17:39:30.651] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:30.651] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.037s
+[2023-09-11 17:39:30.945] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.039s will wait 0.01s to send again
+[2023-09-11 17:39:32.548] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:32.548] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.0465s
+[2023-09-11 17:39:33.039] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.049s will wait 0.01s to send again
+[2023-09-11 17:39:33.557] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:33.557] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.052s
+[2023-09-11 17:39:34.938] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.059s will wait 0.01s to send again
+[2023-09-11 17:39:35.857] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:35.857] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.0625s
+[2023-09-11 17:39:37.110] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.069s will wait 0.01s to send again
+[2023-09-11 17:39:37.586] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:37.586] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.072s
+[2023-09-11 17:39:38.451] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.079s will wait 0.01s to send again
+[2023-09-11 17:39:38.953] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:38.953] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.082s
+[2023-09-11 17:39:40.205] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.089s will wait 0.01s to send again
+[2023-09-11 17:39:41.044] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:41.044] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.0925s
+[2023-09-11 17:39:41.849] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.099s will wait 0.01s to send again
+[2023-09-11 17:39:42.702] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:42.702] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.102s
+[2023-09-11 17:39:43.774] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.109s will wait 0.01s to send again
+[2023-09-11 17:39:44.233] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:44.233] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.112s
+[2023-09-11 17:39:45.576] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.119s will wait 0.01s to send again
+[2023-09-11 17:39:46.433] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:46.433] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.122s
+[2023-09-11 17:39:47.205] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.129s will wait 0.01s to send again
+[2023-09-11 17:39:47.992] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:47.992] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.132s
+[2023-09-11 17:39:48.800] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.139s will wait 0.01s to send again
+[2023-09-11 17:39:49.187] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:49.187] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.142s
+[2023-09-11 17:39:50.419] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.149s will wait 0.01s to send again
+[2023-09-11 17:39:50.852] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:50.852] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.152s
+[2023-09-11 17:39:52.007] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.159s will wait 0.01s to send again
+[2023-09-11 17:39:52.363] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:52.363] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.162s
+[2023-09-11 17:39:53.711] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.169s will wait 0.01s to send again
+[2023-09-11 17:39:54.457] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:54.457] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.172s
+[2023-09-11 17:39:55.804] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.179s will wait 0.01s to send again
+[2023-09-11 17:39:56.233] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:56.233] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.182s
+[2023-09-11 17:39:57.223] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.189s will wait 0.01s to send again
+[2023-09-11 17:39:57.649] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:57.649] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.192s
+[2023-09-11 17:39:58.839] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.199s will wait 0.01s to send again
+[2023-09-11 17:39:59.669] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:39:59.669] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.202s
+[2023-09-11 17:40:00.510] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.209s will wait 0.01s to send again
+[2023-09-11 17:40:01.273] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:01.273] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.212s
+[2023-09-11 17:40:02.462] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.219s will wait 0.01s to send again
+[2023-09-11 17:40:02.928] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:02.928] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.2225s
+[2023-09-11 17:40:03.819] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.229s will wait 0.01s to send again
+[2023-09-11 17:40:04.304] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:04.304] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.232s
+[2023-09-11 17:40:05.634] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.239s will wait 0.01s to send again
+[2023-09-11 17:40:06.691] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:06.691] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.2425s
+[2023-09-11 17:40:08.148] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.249s will wait 0.01s to send again
+[2023-09-11 17:40:09.557] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:09.557] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.252s
+[2023-09-11 17:40:10.696] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.259s will wait 0.01s to send again
+[2023-09-11 17:40:11.108] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:11.108] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.262s
+[2023-09-11 17:40:11.904] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.269s will wait 0.01s to send again
+[2023-09-11 17:40:12.413] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:12.413] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.2725s
+[2023-09-11 17:40:13.589] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.279s will wait 0.01s to send again
+[2023-09-11 17:40:14.157] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:14.157] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.282s
+[2023-09-11 17:40:16.197] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.289s will wait 0.01s to send again
+[2023-09-11 17:40:17.404] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:17.404] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.295s
+[2023-09-11 17:40:18.348] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.299s will wait 0.01s to send again
+[2023-09-11 17:40:20.136] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:20.136] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.3025s
+[2023-09-11 17:40:21.395] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.309s will wait 0.01s to send again
+[2023-09-11 17:40:22.362] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:22.362] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.312s
+[2023-09-11 17:40:23.533] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.319s will wait 0.01s to send again
+[2023-09-11 17:40:24.048] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:24.048] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.322s
+[2023-09-11 17:40:25.560] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.329s will wait 0.01s to send again
+[2023-09-11 17:40:26.599] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:26.599] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.332s
+[2023-09-11 17:40:27.641] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.339s will wait 0.01s to send again
+[2023-09-11 17:40:28.657] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:28.657] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.342s
+[2023-09-11 17:40:30.151] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.349s will wait 0.01s to send again
+[2023-09-11 17:40:30.731] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:30.731] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.352s
+[2023-09-11 17:40:31.668] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.359s will wait 0.01s to send again
+[2023-09-11 17:40:32.046] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:32.046] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.362s
+[2023-09-11 17:40:33.344] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.369s will wait 0.01s to send again
+[2023-09-11 17:40:34.225] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:34.228] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.372s
+[2023-09-11 17:40:35.093] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.379s will wait 0.01s to send again
+[2023-09-11 17:40:36.076] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:36.076] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.382s
+[2023-09-11 17:40:37.119] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.389s will wait 0.01s to send again
+[2023-09-11 17:40:37.655] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:37.655] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.392s
+[2023-09-11 17:40:38.882] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.399s will wait 0.01s to send again
+[2023-09-11 17:40:40.015] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:40.015] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.4055s
+[2023-09-11 17:40:40.484] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.409s will wait 0.01s to send again
+[2023-09-11 17:40:41.252] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:41.252] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.412s
+[2023-09-11 17:40:42.333] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.419s will wait 0.01s to send again
+[2023-09-11 17:40:42.910] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:42.910] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.422s
+[2023-09-11 17:40:44.108] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.429s will wait 0.01s to send again
+[2023-09-11 17:40:44.890] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:44.891] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.432s
+[2023-09-11 17:40:45.784] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.439s will wait 0.01s to send again
+[2023-09-11 17:40:46.762] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:46.762] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.4425s
+[2023-09-11 17:40:47.579] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.449s will wait 0.01s to send again
+[2023-09-11 17:40:48.049] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:48.049] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.452s
+[2023-09-11 17:40:49.360] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.459s will wait 0.01s to send again
+[2023-09-11 17:40:50.116] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:50.116] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.462s
+[2023-09-11 17:40:51.045] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.469s will wait 0.01s to send again
+[2023-09-11 17:40:51.865] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:51.865] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.472s
+[2023-09-11 17:40:52.885] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.479s will wait 0.01s to send again
+[2023-09-11 17:40:53.292] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:53.292] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.482s
+[2023-09-11 17:40:54.793] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.489s will wait 0.01s to send again
+[2023-09-11 17:40:55.653] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:55.653] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.492s
+[2023-09-11 17:40:56.522] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.499s will wait 0.01s to send again
+[2023-09-11 17:40:57.835] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:57.835] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.505s
+[2023-09-11 17:40:58.667] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.509s will wait 0.01s to send again
+[2023-09-11 17:40:59.175] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:40:59.175] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.512s
+[2023-09-11 17:41:00.479] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.519s will wait 0.01s to send again
+[2023-09-11 17:41:02.125] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:02.125] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.528s
+[2023-09-11 17:41:02.286] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.529s will wait 0.01s to send again
+[2023-09-11 17:41:03.070] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:03.070] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.532s
+[2023-09-11 17:41:04.034] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.539s will wait 0.01s to send again
+[2023-09-11 17:41:04.456] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:04.456] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.542s
+[2023-09-11 17:41:05.627] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.549s will wait 0.01s to send again
+[2023-09-11 17:41:06.045] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:06.045] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.552s
+[2023-09-11 17:41:07.346] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.559s will wait 0.01s to send again
+[2023-09-11 17:41:08.515] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:08.515] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.565s
+[2023-09-11 17:41:08.963] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.569s will wait 0.01s to send again
+[2023-09-11 17:41:10.487] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:10.487] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.578s
+[2023-09-11 17:41:11.139] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.579s will wait 0.01s to send again
+[2023-09-11 17:41:11.531] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:11.531] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.582s
+[2023-09-11 17:41:12.769] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.589s will wait 0.01s to send again
+[2023-09-11 17:41:13.205] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:13.205] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.592s
+[2023-09-11 17:41:14.422] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.599s will wait 0.01s to send again
+[2023-09-11 17:41:15.280] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:15.280] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.602s
+[2023-09-11 17:41:16.208] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.609s will wait 0.01s to send again
+[2023-09-11 17:41:16.981] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:16.981] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.612s
+[2023-09-11 17:41:17.881] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.619s will wait 0.01s to send again
+[2023-09-11 17:41:18.391] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:18.391] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.6225s
+[2023-09-11 17:41:19.712] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.629s will wait 0.01s to send again
+[2023-09-11 17:41:20.104] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:20.104] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.632s
+[2023-09-11 17:41:21.355] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.639s will wait 0.01s to send again
+[2023-09-11 17:41:22.091] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:22.091] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.642s
+[2023-09-11 17:41:23.257] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.649s will wait 0.01s to send again
+[2023-09-11 17:41:23.709] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:23.710] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.652s
+[2023-09-11 17:41:24.690] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.659s will wait 0.01s to send again
+[2023-09-11 17:41:25.267] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:25.267] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.6625s
+[2023-09-11 17:41:26.420] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.669s will wait 0.01s to send again
+[2023-09-11 17:41:27.228] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:27.228] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.672s
+[2023-09-11 17:41:28.023] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.679s will wait 0.01s to send again
+[2023-09-11 17:41:28.933] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:28.933] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.682s
+[2023-09-11 17:41:30.005] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.689s will wait 0.01s to send again
+[2023-09-11 17:41:30.616] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:30.616] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.692s
+[2023-09-11 17:41:31.957] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.699s will wait 0.01s to send again
+[2023-09-11 17:41:32.870] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:32.870] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.702s
+[2023-09-11 17:41:33.706] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.709s will wait 0.01s to send again
+[2023-09-11 17:41:34.564] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:34.564] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.7125s
+[2023-09-11 17:41:35.464] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.719s will wait 0.01s to send again
+[2023-09-11 17:41:35.901] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:35.901] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.722s
+[2023-09-11 17:41:37.309] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.729s will wait 0.01s to send again
+[2023-09-11 17:41:38.785] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:38.785] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.738s
+[2023-09-11 17:41:38.916] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.739s will wait 0.01s to send again
+[2023-09-11 17:41:39.717] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:39.717] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.742s
+[2023-09-11 17:41:40.516] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.749s will wait 0.01s to send again
+[2023-09-11 17:41:41.321] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:41.321] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.752s
+[2023-09-11 17:41:42.350] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.759s will wait 0.01s to send again
+[2023-09-11 17:41:42.939] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:42.939] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.762s
+[2023-09-11 17:41:44.205] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.769s will wait 0.01s to send again
+[2023-09-11 17:41:45.230] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:45.230] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.775s
+[2023-09-11 17:41:45.761] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.779s will wait 0.01s to send again
+[2023-09-11 17:41:46.636] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:46.636] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.782s
+[2023-09-11 17:41:47.458] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.789s will wait 0.01s to send again
+[2023-09-11 17:41:48.424] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:48.424] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.792s
+[2023-09-11 17:41:49.551] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.799s will wait 0.01s to send again
+[2023-09-11 17:41:50.544] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:50.544] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.802s
+[2023-09-11 17:41:51.821] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.809s will wait 0.01s to send again
+[2023-09-11 17:41:52.356] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:52.356] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.8125s
+[2023-09-11 17:41:53.261] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.819s will wait 0.01s to send again
+[2023-09-11 17:41:53.702] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:53.702] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.822s
+[2023-09-11 17:41:55.172] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.829s will wait 0.01s to send again
+[2023-09-11 17:41:56.961] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:56.961] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.8325s
+[2023-09-11 17:41:57.898] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.839s will wait 0.01s to send again
+[2023-09-11 17:41:58.716] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:41:58.716] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.842s
+[2023-09-11 17:41:59.662] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.849s will wait 0.01s to send again
+[2023-09-11 17:42:00.186] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:00.186] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.852s
+[2023-09-11 17:42:01.493] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.859s will wait 0.01s to send again
+[2023-09-11 17:42:02.746] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:02.746] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.865s
+[2023-09-11 17:42:03.231] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.869s will wait 0.01s to send again
+[2023-09-11 17:42:04.087] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:04.087] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.8725s
+[2023-09-11 17:42:04.825] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.879s will wait 0.01s to send again
+[2023-09-11 17:42:05.830] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:05.830] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.882s
+[2023-09-11 17:42:07.069] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.889s will wait 0.01s to send again
+[2023-09-11 17:42:07.926] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:07.926] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.892s
+[2023-09-11 17:42:08.670] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.899s will wait 0.01s to send again
+[2023-09-11 17:42:09.406] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:09.406] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.902s
+[2023-09-11 17:42:10.269] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.909s will wait 0.01s to send again
+[2023-09-11 17:42:11.092] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:11.093] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.912s
+[2023-09-11 17:42:12.121] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.919s will wait 0.01s to send again
+[2023-09-11 17:42:12.630] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:12.630] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.922s
+[2023-09-11 17:42:13.879] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.929s will wait 0.01s to send again
+[2023-09-11 17:42:14.716] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:14.716] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.932s
+[2023-09-11 17:42:15.486] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.939s will wait 0.01s to send again
+[2023-09-11 17:42:16.351] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:16.351] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.9425s
+[2023-09-11 17:42:17.283] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.949s will wait 0.01s to send again
+[2023-09-11 17:42:17.774] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:17.774] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.952s
+[2023-09-11 17:42:19.100] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.959s will wait 0.01s to send again
+[2023-09-11 17:42:19.945] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:19.945] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.962s
+[2023-09-11 17:42:20.824] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.969s will wait 0.01s to send again
+[2023-09-11 17:42:22.506] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:22.506] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.978s
+[2023-09-11 17:42:22.673] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.979s will wait 0.01s to send again
+[2023-09-11 17:42:23.244] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:23.244] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.982s
+[2023-09-11 17:42:24.610] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.989s will wait 0.01s to send again
+[2023-09-11 17:42:25.447] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:25.447] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 3.992s
+[2023-09-11 17:42:26.708] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  3.999s will wait 0.01s to send again
+[2023-09-11 17:42:27.159] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:27.159] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.002s
+[2023-09-11 17:42:27.995] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.009s will wait 0.01s to send again
+[2023-09-11 17:42:28.609] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:28.609] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.0135s
+[2023-09-11 17:42:29.356] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.019s will wait 0.01s to send again
+[2023-09-11 17:42:29.822] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:29.822] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.0215s
+[2023-09-11 17:42:31.128] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.029s will wait 0.01s to send again
+[2023-09-11 17:42:32.415] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:32.415] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.0345s
+[2023-09-11 17:42:33.008] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.039s will wait 0.01s to send again
+[2023-09-11 17:42:33.936] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:33.936] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.044s
+[2023-09-11 17:42:34.765] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.049s will wait 0.01s to send again
+[2023-09-11 17:42:35.081] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:35.081] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.0505s
+[2023-09-11 17:42:36.635] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.059s will wait 0.01s to send again
+[2023-09-11 17:42:37.161] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:37.161] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.0615s
+[2023-09-11 17:42:38.350] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.069s will wait 0.01s to send again
+[2023-09-11 17:42:38.691] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:38.691] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.071s
+[2023-09-11 17:42:39.656] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.079s will wait 0.01s to send again
+[2023-09-11 17:42:39.931] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:39.931] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.0805s
+[2023-09-11 17:42:40.928] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.089s will wait 0.01s to send again
+[2023-09-11 17:42:41.447] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:41.447] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.0925s
+[2023-09-11 17:42:42.293] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.099s will wait 0.01s to send again
+[2023-09-11 17:42:42.700] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:42.700] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1005s
+[2023-09-11 17:42:43.952] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.109s will wait 0.01s to send again
+[2023-09-11 17:42:44.165] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:44.165] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1105s
+[2023-09-11 17:42:45.323] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.119s will wait 0.01s to send again
+[2023-09-11 17:42:45.600] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:45.600] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1205s
+[2023-09-11 17:42:47.125] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.129s will wait 0.01s to send again
+[2023-09-11 17:42:47.413] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:47.413] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1305s
+[2023-09-11 17:42:48.888] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.139s will wait 0.01s to send again
+[2023-09-11 17:42:49.145] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:49.145] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1405s
+[2023-09-11 17:42:50.011] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.149s will wait 0.01s to send again
+[2023-09-11 17:42:50.481] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:50.481] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.152s
+[2023-09-11 17:42:51.556] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.159s will wait 0.01s to send again
+[2023-09-11 17:42:51.795] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:51.795] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1605s
+[2023-09-11 17:42:53.124] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.169s will wait 0.01s to send again
+[2023-09-11 17:42:53.404] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:53.404] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1705s
+[2023-09-11 17:42:54.987] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.179s will wait 0.01s to send again
+[2023-09-11 17:42:55.312] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:55.312] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1805s
+[2023-09-11 17:42:56.599] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.189s will wait 0.01s to send again
+[2023-09-11 17:42:56.857] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:56.857] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.1905s
+[2023-09-11 17:42:57.828] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.199s will wait 0.01s to send again
+[2023-09-11 17:42:58.437] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:58.437] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.202s
+[2023-09-11 17:42:59.594] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.209s will wait 0.01s to send again
+[2023-09-11 17:42:59.850] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:42:59.850] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.2105s
+[2023-09-11 17:43:01.083] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.219s will wait 0.01s to send again
+[2023-09-11 17:43:01.334] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:01.334] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.2205s
+[2023-09-11 17:43:02.342] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.229s will wait 0.01s to send again
+[2023-09-11 17:43:02.562] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:02.562] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.2305s
+[2023-09-11 17:43:03.670] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.239s will wait 0.01s to send again
+[2023-09-11 17:43:04.076] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:04.076] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.2405s
+[2023-09-11 17:43:05.318] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.249s will wait 0.01s to send again
+[2023-09-11 17:43:05.643] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:05.643] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.2505s
+[2023-09-11 17:43:06.971] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.259s will wait 0.01s to send again
+[2023-09-11 17:43:07.308] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:07.308] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.2605s
+[2023-09-11 17:43:08.542] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.269s will wait 0.01s to send again
+[2023-09-11 17:43:08.838] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:08.838] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.2705s
+[2023-09-11 17:43:09.886] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.279s will wait 0.01s to send again
+[2023-09-11 17:43:10.226] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:10.226] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.281s
+[2023-09-11 17:43:11.647] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.289s will wait 0.01s to send again
+[2023-09-11 17:43:11.968] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:11.968] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.2905s
+[2023-09-11 17:43:13.476] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.299s will wait 0.01s to send again
+[2023-09-11 17:43:13.770] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:13.770] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3005s
+[2023-09-11 17:43:14.927] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.309s will wait 0.01s to send again
+[2023-09-11 17:43:15.300] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:15.300] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3105s
+[2023-09-11 17:43:16.385] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.319s will wait 0.01s to send again
+[2023-09-11 17:43:16.700] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:16.700] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3205s
+[2023-09-11 17:43:17.929] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.329s will wait 0.01s to send again
+[2023-09-11 17:43:18.341] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:18.341] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3305s
+[2023-09-11 17:43:19.602] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.339s will wait 0.01s to send again
+[2023-09-11 17:43:19.918] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:19.918] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3405s
+[2023-09-11 17:43:21.172] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.349s will wait 0.01s to send again
+[2023-09-11 17:43:21.447] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:21.447] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3505s
+[2023-09-11 17:43:22.857] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.359s will wait 0.01s to send again
+[2023-09-11 17:43:23.203] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:23.203] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3605s
+[2023-09-11 17:43:24.456] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.369s will wait 0.01s to send again
+[2023-09-11 17:43:24.767] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:24.767] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3705s
+[2023-09-11 17:43:25.996] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.379s will wait 0.01s to send again
+[2023-09-11 17:43:26.278] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:26.278] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3805s
+[2023-09-11 17:43:27.481] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.389s will wait 0.01s to send again
+[2023-09-11 17:43:27.801] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:27.801] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.3905s
+[2023-09-11 17:43:29.008] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.399s will wait 0.01s to send again
+[2023-09-11 17:43:29.303] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:29.303] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4005s
+[2023-09-11 17:43:30.780] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.409s will wait 0.01s to send again
+[2023-09-11 17:43:31.053] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:31.053] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4105s
+[2023-09-11 17:43:32.074] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.419s will wait 0.01s to send again
+[2023-09-11 17:43:32.356] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:32.356] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4205s
+[2023-09-11 17:43:33.586] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.429s will wait 0.01s to send again
+[2023-09-11 17:43:33.939] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:33.939] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4305s
+[2023-09-11 17:43:35.187] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.439s will wait 0.01s to send again
+[2023-09-11 17:43:35.481] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:35.481] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4405s
+[2023-09-11 17:43:36.821] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.449s will wait 0.01s to send again
+[2023-09-11 17:43:37.073] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:37.073] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4505s
+[2023-09-11 17:43:38.184] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.459s will wait 0.01s to send again
+[2023-09-11 17:43:38.558] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:38.558] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4605s
+[2023-09-11 17:43:39.859] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.469s will wait 0.01s to send again
+[2023-09-11 17:43:40.112] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:40.112] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4705s
+[2023-09-11 17:43:41.245] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.479s will wait 0.01s to send again
+[2023-09-11 17:43:41.723] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:41.723] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4815s
+[2023-09-11 17:43:43.047] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.489s will wait 0.01s to send again
+[2023-09-11 17:43:43.390] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:43.390] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.4905s
+[2023-09-11 17:43:44.569] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.499s will wait 0.01s to send again
+[2023-09-11 17:43:44.853] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:44.853] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5005s
+[2023-09-11 17:43:45.936] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.509s will wait 0.01s to send again
+[2023-09-11 17:43:46.240] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:46.240] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5105s
+[2023-09-11 17:43:47.285] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.519s will wait 0.01s to send again
+[2023-09-11 17:43:47.589] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:47.589] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5205s
+[2023-09-11 17:43:48.968] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.529s will wait 0.01s to send again
+[2023-09-11 17:43:49.231] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:49.231] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5305s
+[2023-09-11 17:43:50.451] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.539s will wait 0.01s to send again
+[2023-09-11 17:43:50.829] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:50.829] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5405s
+[2023-09-11 17:43:51.963] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.549s will wait 0.01s to send again
+[2023-09-11 17:43:52.249] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:52.249] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5505s
+[2023-09-11 17:43:53.584] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.559s will wait 0.01s to send again
+[2023-09-11 17:43:53.971] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:53.971] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5605s
+[2023-09-11 17:43:55.338] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.569s will wait 0.01s to send again
+[2023-09-11 17:43:55.666] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:55.666] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5705s
+[2023-09-11 17:43:56.809] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.579s will wait 0.01s to send again
+[2023-09-11 17:43:57.089] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:57.089] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5805s
+[2023-09-11 17:43:58.195] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.589s will wait 0.01s to send again
+[2023-09-11 17:43:58.489] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:58.490] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.5905s
+[2023-09-11 17:43:59.668] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.599s will wait 0.01s to send again
+[2023-09-11 17:43:59.979] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:43:59.979] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6005s
+[2023-09-11 17:44:01.298] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.609s will wait 0.01s to send again
+[2023-09-11 17:44:01.623] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:01.623] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6105s
+[2023-09-11 17:44:02.911] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.619s will wait 0.01s to send again
+[2023-09-11 17:44:03.146] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:03.146] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6205s
+[2023-09-11 17:44:04.396] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.629s will wait 0.01s to send again
+[2023-09-11 17:44:04.688] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:04.688] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6305s
+[2023-09-11 17:44:05.905] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.639s will wait 0.01s to send again
+[2023-09-11 17:44:06.435] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:06.435] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6405s
+[2023-09-11 17:44:07.820] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.649s will wait 0.01s to send again
+[2023-09-11 17:44:08.025] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:08.025] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6505s
+[2023-09-11 17:44:09.415] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.659s will wait 0.01s to send again
+[2023-09-11 17:44:09.955] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:09.955] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6615s
+[2023-09-11 17:44:11.007] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.669s will wait 0.01s to send again
+[2023-09-11 17:44:11.320] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:11.320] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6705s
+[2023-09-11 17:44:12.335] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.679s will wait 0.01s to send again
+[2023-09-11 17:44:12.829] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:12.829] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.682s
+[2023-09-11 17:44:13.866] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.689s will wait 0.01s to send again
+[2023-09-11 17:44:14.324] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:14.324] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.6915s
+[2023-09-11 17:44:15.240] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.699s will wait 0.01s to send again
+[2023-09-11 17:44:15.566] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:15.566] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7005s
+[2023-09-11 17:44:16.800] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.709s will wait 0.01s to send again
+[2023-09-11 17:44:17.064] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:17.064] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7105s
+[2023-09-11 17:44:18.302] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.719s will wait 0.01s to send again
+[2023-09-11 17:44:18.880] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:18.880] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7215s
+[2023-09-11 17:44:20.041] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.729s will wait 0.01s to send again
+[2023-09-11 17:44:20.322] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:20.322] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7305s
+[2023-09-11 17:44:21.622] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.739s will wait 0.01s to send again
+[2023-09-11 17:44:21.951] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:21.951] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7405s
+[2023-09-11 17:44:23.161] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.749s will wait 0.01s to send again
+[2023-09-11 17:44:23.462] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:23.462] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7505s
+[2023-09-11 17:44:24.744] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.759s will wait 0.01s to send again
+[2023-09-11 17:44:25.033] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:25.033] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7605s
+[2023-09-11 17:44:26.389] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.769s will wait 0.01s to send again
+[2023-09-11 17:44:26.732] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:26.732] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7705s
+[2023-09-11 17:44:27.873] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.779s will wait 0.01s to send again
+[2023-09-11 17:44:28.299] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:28.299] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7815s
+[2023-09-11 17:44:29.420] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.789s will wait 0.01s to send again
+[2023-09-11 17:44:29.854] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:29.854] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.7905s
+[2023-09-11 17:44:31.132] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.799s will wait 0.01s to send again
+[2023-09-11 17:44:31.377] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:31.377] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8005s
+[2023-09-11 17:44:32.788] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.809s will wait 0.01s to send again
+[2023-09-11 17:44:33.254] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:33.254] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8105s
+[2023-09-11 17:44:34.819] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.819s will wait 0.01s to send again
+[2023-09-11 17:44:35.397] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:35.398] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8205s
+[2023-09-11 17:44:36.851] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.829s will wait 0.01s to send again
+[2023-09-11 17:44:37.197] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:37.197] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8305s
+[2023-09-11 17:44:38.658] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.839s will wait 0.01s to send again
+[2023-09-11 17:44:39.317] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:39.317] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8405s
+[2023-09-11 17:44:41.958] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.849s will wait 0.01s to send again
+[2023-09-11 17:44:42.570] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:42.570] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8505s
+[2023-09-11 17:44:43.931] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.859s will wait 0.01s to send again
+[2023-09-11 17:44:44.313] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:44.313] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8605s
+[2023-09-11 17:44:47.221] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.869s will wait 0.01s to send again
+[2023-09-11 17:44:47.811] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:47.811] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8705s
+[2023-09-11 17:44:50.097] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.879s will wait 0.01s to send again
+[2023-09-11 17:44:50.935] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:50.935] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8805s
+[2023-09-11 17:44:53.154] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.889s will wait 0.01s to send again
+[2023-09-11 17:44:53.489] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:53.489] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.8905s
+[2023-09-11 17:44:54.748] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.899s will wait 0.01s to send again
+[2023-09-11 17:44:55.226] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:55.226] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9005s
+[2023-09-11 17:44:56.471] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.909s will wait 0.01s to send again
+[2023-09-11 17:44:56.739] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:56.739] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9105s
+[2023-09-11 17:44:58.422] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.919s will wait 0.01s to send again
+[2023-09-11 17:44:59.311] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:44:59.311] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9215s
+[2023-09-11 17:45:00.960] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.929s will wait 0.01s to send again
+[2023-09-11 17:45:01.324] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:45:01.324] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9305s
+[2023-09-11 17:45:02.722] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.939s will wait 0.01s to send again
+[2023-09-11 17:45:03.302] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:45:03.302] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9405s
+[2023-09-11 17:45:04.823] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.949s will wait 0.01s to send again
+[2023-09-11 17:45:05.300] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:45:05.300] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9515s
+[2023-09-11 17:45:06.534] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.959s will wait 0.01s to send again
+[2023-09-11 17:45:06.915] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:45:06.915] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9605s
+[2023-09-11 17:45:08.588] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.969s will wait 0.01s to send again
+[2023-09-11 17:45:08.938] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:45:08.939] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9705s
+[2023-09-11 17:45:10.510] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.979s will wait 0.01s to send again
+[2023-09-11 17:45:11.322] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:45:11.322] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.982s
+[2023-09-11 17:45:13.572] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.989s will wait 0.01s to send again
+[2023-09-11 17:45:14.127] [UELoggertest_6] [info] Received from MecAPP: messagetype PingPongPacket
+[2023-09-11 17:45:14.127] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ack received from MECApp at 4.9905s
+[2023-09-11 17:45:15.869] [UELoggertest_6] [info] UEPingPongApp::handleMessage- Ping sent at  4.999s will wait 0.01s to send again

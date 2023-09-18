@@ -1,0 +1,1129 @@
+[2023-09-11 17:34:46.715] [ueLogger<none>_801_16] [info] initializated:  - 1.121527171856
+[2023-09-11 17:34:50.453] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.240002984s 
+[2023-09-11 17:34:50.454] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.240002984s
+[2023-09-11 17:34:50.455] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.240002984s
+[2023-09-11 17:34:52.056] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.2500042184s 
+[2023-09-11 17:34:52.056] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2500042184s
+[2023-09-11 17:34:52.058] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2500042184s
+[2023-09-11 17:34:53.427] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.2600042184s 
+[2023-09-11 17:34:53.427] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2600042184s
+[2023-09-11 17:34:53.431] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2600042184s
+[2023-09-11 17:34:55.826] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.2700042184s 
+[2023-09-11 17:34:55.826] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2700042184s
+[2023-09-11 17:34:55.827] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2700042184s
+[2023-09-11 17:34:58.960] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.2800042184s 
+[2023-09-11 17:34:58.960] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2800042184s
+[2023-09-11 17:34:58.965] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2800042184s
+[2023-09-11 17:35:24.805] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.2900042184s 
+[2023-09-11 17:35:24.805] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2900042184s
+[2023-09-11 17:35:24.806] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.2900042184s
+[2023-09-11 17:35:26.238] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3000042184s 
+[2023-09-11 17:35:26.238] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3000042184s
+[2023-09-11 17:35:26.239] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3000042184s
+[2023-09-11 17:35:27.614] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3100042184s 
+[2023-09-11 17:35:27.615] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3100042184s
+[2023-09-11 17:35:27.615] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3100042184s
+[2023-09-11 17:35:29.210] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3200042184s 
+[2023-09-11 17:35:29.210] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3200042184s
+[2023-09-11 17:35:29.211] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3200042184s
+[2023-09-11 17:35:30.693] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3300042184s 
+[2023-09-11 17:35:30.693] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3300042184s
+[2023-09-11 17:35:30.702] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3300042184s
+[2023-09-11 17:35:32.082] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3400042184s 
+[2023-09-11 17:35:32.082] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3400042184s
+[2023-09-11 17:35:32.083] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3400042184s
+[2023-09-11 17:35:34.506] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.353003428s 
+[2023-09-11 17:35:34.506] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.353003428s
+[2023-09-11 17:35:34.507] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.353003428s
+[2023-09-11 17:35:35.812] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3600042184s 
+[2023-09-11 17:35:35.813] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3600042184s
+[2023-09-11 17:35:35.814] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3600042184s
+[2023-09-11 17:35:37.368] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3700042184s 
+[2023-09-11 17:35:37.369] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3700042184s
+[2023-09-11 17:35:37.369] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3700042184s
+[2023-09-11 17:35:38.715] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3800042184s 
+[2023-09-11 17:35:38.715] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3800042184s
+[2023-09-11 17:35:38.719] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3800042184s
+[2023-09-11 17:35:40.128] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.3900042184s 
+[2023-09-11 17:35:40.128] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3900042184s
+[2023-09-11 17:35:40.129] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.3900042184s
+[2023-09-11 17:35:41.370] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4000042184s 
+[2023-09-11 17:35:41.371] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4000042184s
+[2023-09-11 17:35:41.371] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4000042184s
+[2023-09-11 17:35:42.533] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4095034568s 
+[2023-09-11 17:35:42.533] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4095034568s
+[2023-09-11 17:35:42.534] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4095034568s
+[2023-09-11 17:35:44.091] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4200042184s 
+[2023-09-11 17:35:44.092] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4200042184s
+[2023-09-11 17:35:44.092] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4200042184s
+[2023-09-11 17:35:45.432] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4300042184s 
+[2023-09-11 17:35:45.433] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4300042184s
+[2023-09-11 17:35:45.434] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4300042184s
+[2023-09-11 17:35:47.369] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4400042184s 
+[2023-09-11 17:35:47.369] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4400042184s
+[2023-09-11 17:35:47.370] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4400042184s
+[2023-09-11 17:35:49.132] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4500042184s 
+[2023-09-11 17:35:49.133] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4500042184s
+[2023-09-11 17:35:49.138] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4500042184s
+[2023-09-11 17:35:50.664] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4600042184s 
+[2023-09-11 17:35:50.664] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4600042184s
+[2023-09-11 17:35:50.665] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4600042184s
+[2023-09-11 17:35:52.625] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4700042184s 
+[2023-09-11 17:35:52.625] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4700042184s
+[2023-09-11 17:35:52.626] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4700042184s
+[2023-09-11 17:35:54.323] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4800042184s 
+[2023-09-11 17:35:54.323] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4800042184s
+[2023-09-11 17:35:54.324] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4800042184s
+[2023-09-11 17:35:55.881] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.4900042184s 
+[2023-09-11 17:35:55.882] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4900042184s
+[2023-09-11 17:35:55.894] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.4900042184s
+[2023-09-11 17:35:57.449] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5000042184s 
+[2023-09-11 17:35:57.449] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5000042184s
+[2023-09-11 17:35:57.451] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5000042184s
+[2023-09-11 17:35:59.044] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5100042184s 
+[2023-09-11 17:35:59.044] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5100042184s
+[2023-09-11 17:35:59.044] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5100042184s
+[2023-09-11 17:36:00.561] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5200042184s 
+[2023-09-11 17:36:00.561] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5200042184s
+[2023-09-11 17:36:00.562] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5200042184s
+[2023-09-11 17:36:01.941] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5300042184s 
+[2023-09-11 17:36:01.941] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5300042184s
+[2023-09-11 17:36:01.942] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5300042184s
+[2023-09-11 17:36:03.392] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5400042184s 
+[2023-09-11 17:36:03.392] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5400042184s
+[2023-09-11 17:36:03.393] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5400042184s
+[2023-09-11 17:36:04.724] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5500042184s 
+[2023-09-11 17:36:04.724] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5500042184s
+[2023-09-11 17:36:04.725] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5500042184s
+[2023-09-11 17:36:06.276] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5600042184s 
+[2023-09-11 17:36:06.276] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5600042184s
+[2023-09-11 17:36:06.277] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5600042184s
+[2023-09-11 17:36:07.849] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5700042184s 
+[2023-09-11 17:36:07.849] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5700042184s
+[2023-09-11 17:36:07.850] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5700042184s
+[2023-09-11 17:36:09.071] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5800042184s 
+[2023-09-11 17:36:09.071] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5800042184s
+[2023-09-11 17:36:09.072] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5800042184s
+[2023-09-11 17:36:10.446] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.5900042184s 
+[2023-09-11 17:36:10.446] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5900042184s
+[2023-09-11 17:36:10.447] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.5900042184s
+[2023-09-11 17:36:11.742] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.600002984s 
+[2023-09-11 17:36:11.742] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.600002984s
+[2023-09-11 17:36:11.743] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.600002984s
+[2023-09-11 17:36:13.591] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.6100042184s 
+[2023-09-11 17:36:13.591] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6100042184s
+[2023-09-11 17:36:13.592] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6100042184s
+[2023-09-11 17:36:15.185] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.6200042184s 
+[2023-09-11 17:36:15.185] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6200042184s
+[2023-09-11 17:36:15.186] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6200042184s
+[2023-09-11 17:36:17.190] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.6300042184s 
+[2023-09-11 17:36:17.190] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6300042184s
+[2023-09-11 17:36:17.191] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6300042184s
+[2023-09-11 17:36:18.679] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.6400042184s 
+[2023-09-11 17:36:18.679] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6400042184s
+[2023-09-11 17:36:18.680] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6400042184s
+[2023-09-11 17:36:20.345] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.6500042184s 
+[2023-09-11 17:36:20.345] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6500042184s
+[2023-09-11 17:36:20.346] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6500042184s
+[2023-09-11 17:36:22.301] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.6600042184s 
+[2023-09-11 17:36:22.301] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6600042184s
+[2023-09-11 17:36:22.302] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6600042184s
+[2023-09-11 17:36:23.923] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.670002984s 
+[2023-09-11 17:36:23.923] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.670002984s
+[2023-09-11 17:36:23.924] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.670002984s
+[2023-09-11 17:36:25.386] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.6800042184s 
+[2023-09-11 17:36:25.386] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6800042184s
+[2023-09-11 17:36:25.387] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6800042184s
+[2023-09-11 17:36:27.068] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.6900042184s 
+[2023-09-11 17:36:27.068] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6900042184s
+[2023-09-11 17:36:27.069] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.6900042184s
+[2023-09-11 17:36:28.354] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.7000042184s 
+[2023-09-11 17:36:28.355] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7000042184s
+[2023-09-11 17:36:28.356] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7000042184s
+[2023-09-11 17:36:29.870] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.7100042184s 
+[2023-09-11 17:36:29.870] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7100042184s
+[2023-09-11 17:36:29.871] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7100042184s
+[2023-09-11 17:36:31.432] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.7200042184s 
+[2023-09-11 17:36:31.432] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7200042184s
+[2023-09-11 17:36:31.433] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7200042184s
+[2023-09-11 17:36:33.145] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.7325046912s 
+[2023-09-11 17:36:33.145] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7325046912s
+[2023-09-11 17:36:33.146] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7325046912s
+[2023-09-11 17:36:34.136] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.7400042184s 
+[2023-09-11 17:36:34.136] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7400042184s
+[2023-09-11 17:36:34.137] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7400042184s
+[2023-09-11 17:36:35.990] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.7500042184s 
+[2023-09-11 17:36:35.991] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7500042184s
+[2023-09-11 17:36:35.991] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7500042184s
+[2023-09-11 17:36:37.591] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.7600042184s 
+[2023-09-11 17:36:37.591] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7600042184s
+[2023-09-11 17:36:37.592] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7600042184s
+[2023-09-11 17:36:38.853] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.770002984s 
+[2023-09-11 17:36:38.853] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.770002984s
+[2023-09-11 17:36:38.854] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.770002984s
+[2023-09-11 17:36:40.351] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.7800042184s 
+[2023-09-11 17:36:40.351] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7800042184s
+[2023-09-11 17:36:40.352] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.7800042184s
+[2023-09-11 17:36:41.738] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.790002984s 
+[2023-09-11 17:36:41.738] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.790002984s
+[2023-09-11 17:36:41.739] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.790002984s
+[2023-09-11 17:36:43.432] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.8000034568s 
+[2023-09-11 17:36:43.432] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8000034568s
+[2023-09-11 17:36:43.433] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8000034568s
+[2023-09-11 17:36:45.056] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.810002984s 
+[2023-09-11 17:36:45.056] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.810002984s
+[2023-09-11 17:36:45.063] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.810002984s
+[2023-09-11 17:36:47.054] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.820002984s 
+[2023-09-11 17:36:47.054] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.820002984s
+[2023-09-11 17:36:47.055] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.820002984s
+[2023-09-11 17:36:48.630] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.8300042184s 
+[2023-09-11 17:36:48.630] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8300042184s
+[2023-09-11 17:36:48.631] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8300042184s
+[2023-09-11 17:36:50.270] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.840002984s 
+[2023-09-11 17:36:50.271] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.840002984s
+[2023-09-11 17:36:50.273] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.840002984s
+[2023-09-11 17:36:51.936] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.8500042184s 
+[2023-09-11 17:36:51.936] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8500042184s
+[2023-09-11 17:36:51.937] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8500042184s
+[2023-09-11 17:36:53.230] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.8600042184s 
+[2023-09-11 17:36:53.230] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8600042184s
+[2023-09-11 17:36:53.232] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8600042184s
+[2023-09-11 17:36:54.631] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.8700042184s 
+[2023-09-11 17:36:54.631] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8700042184s
+[2023-09-11 17:36:54.632] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8700042184s
+[2023-09-11 17:36:56.140] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.881502984s 
+[2023-09-11 17:36:56.140] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.881502984s
+[2023-09-11 17:36:56.141] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.881502984s
+[2023-09-11 17:36:57.359] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.8900042184s 
+[2023-09-11 17:36:57.359] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8900042184s
+[2023-09-11 17:36:57.360] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.8900042184s
+[2023-09-11 17:36:58.775] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.9015010168s 
+[2023-09-11 17:36:58.775] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9015010168s
+[2023-09-11 17:36:58.776] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9015010168s
+[2023-09-11 17:36:59.937] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.9100042184s 
+[2023-09-11 17:36:59.937] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9100042184s
+[2023-09-11 17:36:59.939] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9100042184s
+[2023-09-11 17:37:01.202] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.9200042184s 
+[2023-09-11 17:37:01.202] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9200042184s
+[2023-09-11 17:37:01.203] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9200042184s
+[2023-09-11 17:37:02.546] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.930002984s 
+[2023-09-11 17:37:02.546] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.930002984s
+[2023-09-11 17:37:02.547] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.930002984s
+[2023-09-11 17:37:03.890] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.9400042184s 
+[2023-09-11 17:37:03.891] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9400042184s
+[2023-09-11 17:37:03.891] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9400042184s
+[2023-09-11 17:37:05.240] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.9500042184s 
+[2023-09-11 17:37:05.240] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9500042184s
+[2023-09-11 17:37:05.241] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9500042184s
+[2023-09-11 17:37:06.765] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.9600042184s 
+[2023-09-11 17:37:06.765] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9600042184s
+[2023-09-11 17:37:06.766] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9600042184s
+[2023-09-11 17:37:08.115] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.9700042184s 
+[2023-09-11 17:37:08.115] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9700042184s
+[2023-09-11 17:37:08.116] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9700042184s
+[2023-09-11 17:37:09.634] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.981502984s 
+[2023-09-11 17:37:09.634] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.981502984s
+[2023-09-11 17:37:09.635] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.981502984s
+[2023-09-11 17:37:10.795] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 1.9900042184s 
+[2023-09-11 17:37:10.795] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9900042184s
+[2023-09-11 17:37:10.796] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 1.9900042184s
+[2023-09-11 17:37:12.129] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0000042184s 
+[2023-09-11 17:37:12.129] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0000042184s
+[2023-09-11 17:37:12.130] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0000042184s
+[2023-09-11 17:37:13.516] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.011502984s 
+[2023-09-11 17:37:13.516] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.011502984s
+[2023-09-11 17:37:13.517] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.011502984s
+[2023-09-11 17:37:15.236] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0215046912s 
+[2023-09-11 17:37:15.236] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0215046912s
+[2023-09-11 17:37:15.238] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0215046912s
+[2023-09-11 17:37:16.767] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0320042184s 
+[2023-09-11 17:37:16.767] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0320042184s
+[2023-09-11 17:37:16.768] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0320042184s
+[2023-09-11 17:37:18.222] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0420046912s 
+[2023-09-11 17:37:18.222] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0420046912s
+[2023-09-11 17:37:18.223] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0420046912s
+[2023-09-11 17:37:19.185] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.048505164s 
+[2023-09-11 17:37:19.185] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.048505164s
+[2023-09-11 17:37:19.186] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.048505164s
+[2023-09-11 17:37:20.646] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0585046912s 
+[2023-09-11 17:37:20.646] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0585046912s
+[2023-09-11 17:37:20.648] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0585046912s
+[2023-09-11 17:37:21.728] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0685046912s 
+[2023-09-11 17:37:21.728] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0685046912s
+[2023-09-11 17:37:21.730] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0685046912s
+[2023-09-11 17:37:23.254] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0785046912s 
+[2023-09-11 17:37:23.254] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0785046912s
+[2023-09-11 17:37:23.255] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0785046912s
+[2023-09-11 17:37:24.671] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0885046912s 
+[2023-09-11 17:37:24.671] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0885046912s
+[2023-09-11 17:37:24.672] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0885046912s
+[2023-09-11 17:37:25.806] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.0985046912s 
+[2023-09-11 17:37:25.807] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0985046912s
+[2023-09-11 17:37:25.808] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.0985046912s
+[2023-09-11 17:37:27.065] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1085046912s 
+[2023-09-11 17:37:27.065] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1085046912s
+[2023-09-11 17:37:27.066] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1085046912s
+[2023-09-11 17:37:28.304] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1185046912s 
+[2023-09-11 17:37:28.304] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1185046912s
+[2023-09-11 17:37:28.305] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1185046912s
+[2023-09-11 17:37:29.700] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1285046912s 
+[2023-09-11 17:37:29.700] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1285046912s
+[2023-09-11 17:37:29.701] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1285046912s
+[2023-09-11 17:37:31.209] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1385046912s 
+[2023-09-11 17:37:31.209] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1385046912s
+[2023-09-11 17:37:31.210] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1385046912s
+[2023-09-11 17:37:32.340] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1485046912s 
+[2023-09-11 17:37:32.340] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1485046912s
+[2023-09-11 17:37:32.341] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1485046912s
+[2023-09-11 17:37:33.554] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1585046912s 
+[2023-09-11 17:37:33.554] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1585046912s
+[2023-09-11 17:37:33.556] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1585046912s
+[2023-09-11 17:37:35.030] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1685046912s 
+[2023-09-11 17:37:35.030] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1685046912s
+[2023-09-11 17:37:35.031] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1685046912s
+[2023-09-11 17:37:36.263] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1785046912s 
+[2023-09-11 17:37:36.263] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1785046912s
+[2023-09-11 17:37:36.264] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1785046912s
+[2023-09-11 17:37:37.342] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1885046912s 
+[2023-09-11 17:37:37.342] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1885046912s
+[2023-09-11 17:37:37.343] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1885046912s
+[2023-09-11 17:37:38.601] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.1985046912s 
+[2023-09-11 17:37:38.601] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1985046912s
+[2023-09-11 17:37:38.602] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.1985046912s
+[2023-09-11 17:37:39.835] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2085046912s 
+[2023-09-11 17:37:39.835] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2085046912s
+[2023-09-11 17:37:39.836] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2085046912s
+[2023-09-11 17:37:41.059] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2185063984s 
+[2023-09-11 17:37:41.059] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2185063984s
+[2023-09-11 17:37:41.060] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2185063984s
+[2023-09-11 17:37:42.632] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2315034568s 
+[2023-09-11 17:37:42.632] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2315034568s
+[2023-09-11 17:37:42.633] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2315034568s
+[2023-09-11 17:37:43.561] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2390042184s 
+[2023-09-11 17:37:43.561] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2390042184s
+[2023-09-11 17:37:43.562] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2390042184s
+[2023-09-11 17:37:44.771] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2485046912s 
+[2023-09-11 17:37:44.771] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2485046912s
+[2023-09-11 17:37:44.772] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2485046912s
+[2023-09-11 17:37:45.976] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2585046912s 
+[2023-09-11 17:37:45.976] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2585046912s
+[2023-09-11 17:37:45.978] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2585046912s
+[2023-09-11 17:37:47.108] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2685046912s 
+[2023-09-11 17:37:47.108] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2685046912s
+[2023-09-11 17:37:47.109] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2685046912s
+[2023-09-11 17:37:48.615] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2785046912s 
+[2023-09-11 17:37:48.615] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2785046912s
+[2023-09-11 17:37:48.616] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2785046912s
+[2023-09-11 17:37:49.996] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2885046912s 
+[2023-09-11 17:37:49.996] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2885046912s
+[2023-09-11 17:37:49.997] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2885046912s
+[2023-09-11 17:37:51.229] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.2985046912s 
+[2023-09-11 17:37:51.229] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2985046912s
+[2023-09-11 17:37:51.230] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.2985046912s
+[2023-09-11 17:37:52.428] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3085046912s 
+[2023-09-11 17:37:52.428] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3085046912s
+[2023-09-11 17:37:52.429] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3085046912s
+[2023-09-11 17:37:53.749] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3185046912s 
+[2023-09-11 17:37:53.749] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3185046912s
+[2023-09-11 17:37:53.750] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3185046912s
+[2023-09-11 17:37:55.250] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.329003428s 
+[2023-09-11 17:37:55.250] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.329003428s
+[2023-09-11 17:37:55.251] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.329003428s
+[2023-09-11 17:37:56.407] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3385046912s 
+[2023-09-11 17:37:56.407] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3385046912s
+[2023-09-11 17:37:56.408] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3385046912s
+[2023-09-11 17:37:57.676] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3485046912s 
+[2023-09-11 17:37:57.676] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3485046912s
+[2023-09-11 17:37:57.677] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3485046912s
+[2023-09-11 17:37:58.837] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3585046912s 
+[2023-09-11 17:37:58.837] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3585046912s
+[2023-09-11 17:37:58.839] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3585046912s
+[2023-09-11 17:38:00.145] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3685046912s 
+[2023-09-11 17:38:00.145] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3685046912s
+[2023-09-11 17:38:00.146] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3685046912s
+[2023-09-11 17:38:01.650] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3785046912s 
+[2023-09-11 17:38:01.650] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3785046912s
+[2023-09-11 17:38:01.651] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3785046912s
+[2023-09-11 17:38:02.918] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3885046912s 
+[2023-09-11 17:38:02.918] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3885046912s
+[2023-09-11 17:38:02.919] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3885046912s
+[2023-09-11 17:38:04.191] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.3985046912s 
+[2023-09-11 17:38:04.191] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3985046912s
+[2023-09-11 17:38:04.192] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.3985046912s
+[2023-09-11 17:38:05.551] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4085046912s 
+[2023-09-11 17:38:05.551] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4085046912s
+[2023-09-11 17:38:05.554] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4085046912s
+[2023-09-11 17:38:06.797] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4185046912s 
+[2023-09-11 17:38:06.797] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4185046912s
+[2023-09-11 17:38:06.798] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4185046912s
+[2023-09-11 17:38:08.030] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4285046912s 
+[2023-09-11 17:38:08.030] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4285046912s
+[2023-09-11 17:38:08.031] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4285046912s
+[2023-09-11 17:38:09.271] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4385046912s 
+[2023-09-11 17:38:09.271] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4385046912s
+[2023-09-11 17:38:09.272] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4385046912s
+[2023-09-11 17:38:10.486] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4485046912s 
+[2023-09-11 17:38:10.486] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4485046912s
+[2023-09-11 17:38:10.487] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4485046912s
+[2023-09-11 17:38:11.731] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4585046912s 
+[2023-09-11 17:38:11.731] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4585046912s
+[2023-09-11 17:38:11.743] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4585046912s
+[2023-09-11 17:38:13.014] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4685046912s 
+[2023-09-11 17:38:13.015] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4685046912s
+[2023-09-11 17:38:13.016] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4685046912s
+[2023-09-11 17:38:14.255] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4785046912s 
+[2023-09-11 17:38:14.255] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4785046912s
+[2023-09-11 17:38:14.256] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4785046912s
+[2023-09-11 17:38:15.673] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4885046912s 
+[2023-09-11 17:38:15.673] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4885046912s
+[2023-09-11 17:38:15.674] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4885046912s
+[2023-09-11 17:38:16.897] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.4985046912s 
+[2023-09-11 17:38:16.897] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4985046912s
+[2023-09-11 17:38:16.898] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.4985046912s
+[2023-09-11 17:38:18.177] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5085046912s 
+[2023-09-11 17:38:18.177] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5085046912s
+[2023-09-11 17:38:18.178] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5085046912s
+[2023-09-11 17:38:19.441] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5185046912s 
+[2023-09-11 17:38:19.441] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5185046912s
+[2023-09-11 17:38:19.441] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5185046912s
+[2023-09-11 17:38:20.857] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5285046912s 
+[2023-09-11 17:38:20.857] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5285046912s
+[2023-09-11 17:38:20.858] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5285046912s
+[2023-09-11 17:38:22.078] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5385046912s 
+[2023-09-11 17:38:22.078] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5385046912s
+[2023-09-11 17:38:22.079] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5385046912s
+[2023-09-11 17:38:23.397] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5485046912s 
+[2023-09-11 17:38:23.397] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5485046912s
+[2023-09-11 17:38:23.398] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5485046912s
+[2023-09-11 17:38:24.520] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5585046912s 
+[2023-09-11 17:38:24.520] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5585046912s
+[2023-09-11 17:38:24.521] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5585046912s
+[2023-09-11 17:38:25.974] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5685046912s 
+[2023-09-11 17:38:25.974] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5685046912s
+[2023-09-11 17:38:25.975] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5685046912s
+[2023-09-11 17:38:27.178] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5785046912s 
+[2023-09-11 17:38:27.178] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5785046912s
+[2023-09-11 17:38:27.179] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5785046912s
+[2023-09-11 17:38:29.304] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.589002984s 
+[2023-09-11 17:38:29.304] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.589002984s
+[2023-09-11 17:38:29.305] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.589002984s
+[2023-09-11 17:38:30.774] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.5985046912s 
+[2023-09-11 17:38:30.774] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5985046912s
+[2023-09-11 17:38:30.775] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.5985046912s
+[2023-09-11 17:38:31.978] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6085046912s 
+[2023-09-11 17:38:31.978] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6085046912s
+[2023-09-11 17:38:31.979] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6085046912s
+[2023-09-11 17:38:33.201] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6185046912s 
+[2023-09-11 17:38:33.201] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6185046912s
+[2023-09-11 17:38:33.202] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6185046912s
+[2023-09-11 17:38:34.984] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6285046912s 
+[2023-09-11 17:38:34.985] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6285046912s
+[2023-09-11 17:38:34.986] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6285046912s
+[2023-09-11 17:38:36.517] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6385046912s 
+[2023-09-11 17:38:36.517] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6385046912s
+[2023-09-11 17:38:36.521] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6385046912s
+[2023-09-11 17:38:38.671] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6485046912s 
+[2023-09-11 17:38:38.672] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6485046912s
+[2023-09-11 17:38:38.673] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6485046912s
+[2023-09-11 17:38:40.627] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6585046912s 
+[2023-09-11 17:38:40.627] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6585046912s
+[2023-09-11 17:38:40.628] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6585046912s
+[2023-09-11 17:38:42.060] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6685046912s 
+[2023-09-11 17:38:42.060] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6685046912s
+[2023-09-11 17:38:42.061] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6685046912s
+[2023-09-11 17:38:43.457] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6785046912s 
+[2023-09-11 17:38:43.457] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6785046912s
+[2023-09-11 17:38:43.458] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6785046912s
+[2023-09-11 17:38:45.056] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6885046912s 
+[2023-09-11 17:38:45.056] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6885046912s
+[2023-09-11 17:38:45.058] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6885046912s
+[2023-09-11 17:38:46.341] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.6985046912s 
+[2023-09-11 17:38:46.341] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6985046912s
+[2023-09-11 17:38:46.342] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.6985046912s
+[2023-09-11 17:38:47.637] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7085046912s 
+[2023-09-11 17:38:47.637] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7085046912s
+[2023-09-11 17:38:47.641] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7085046912s
+[2023-09-11 17:38:49.023] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7185046912s 
+[2023-09-11 17:38:49.023] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7185046912s
+[2023-09-11 17:38:49.024] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7185046912s
+[2023-09-11 17:38:50.238] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7285046912s 
+[2023-09-11 17:38:50.238] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7285046912s
+[2023-09-11 17:38:50.239] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7285046912s
+[2023-09-11 17:38:51.554] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7385046912s 
+[2023-09-11 17:38:51.554] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7385046912s
+[2023-09-11 17:38:51.556] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7385046912s
+[2023-09-11 17:38:52.943] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7485046912s 
+[2023-09-11 17:38:52.943] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7485046912s
+[2023-09-11 17:38:52.944] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7485046912s
+[2023-09-11 17:38:54.121] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7585046912s 
+[2023-09-11 17:38:54.121] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7585046912s
+[2023-09-11 17:38:54.122] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7585046912s
+[2023-09-11 17:38:55.372] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7685046912s 
+[2023-09-11 17:38:55.373] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7685046912s
+[2023-09-11 17:38:55.373] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7685046912s
+[2023-09-11 17:38:56.591] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7785046912s 
+[2023-09-11 17:38:56.591] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7785046912s
+[2023-09-11 17:38:56.592] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7785046912s
+[2023-09-11 17:38:57.854] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7885046912s 
+[2023-09-11 17:38:57.854] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7885046912s
+[2023-09-11 17:38:57.855] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7885046912s
+[2023-09-11 17:38:59.238] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.7985046912s 
+[2023-09-11 17:38:59.238] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7985046912s
+[2023-09-11 17:38:59.239] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.7985046912s
+[2023-09-11 17:39:00.659] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8085046912s 
+[2023-09-11 17:39:00.659] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8085046912s
+[2023-09-11 17:39:00.663] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8085046912s
+[2023-09-11 17:39:01.870] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8185046912s 
+[2023-09-11 17:39:01.870] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8185046912s
+[2023-09-11 17:39:01.871] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8185046912s
+[2023-09-11 17:39:03.065] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8285046912s 
+[2023-09-11 17:39:03.065] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8285046912s
+[2023-09-11 17:39:03.068] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8285046912s
+[2023-09-11 17:39:04.265] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8385046912s 
+[2023-09-11 17:39:04.265] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8385046912s
+[2023-09-11 17:39:04.267] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8385046912s
+[2023-09-11 17:39:05.538] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8485046912s 
+[2023-09-11 17:39:05.538] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8485046912s
+[2023-09-11 17:39:05.539] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8485046912s
+[2023-09-11 17:39:06.811] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8585046912s 
+[2023-09-11 17:39:06.812] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8585046912s
+[2023-09-11 17:39:06.812] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8585046912s
+[2023-09-11 17:39:08.469] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.871502984s 
+[2023-09-11 17:39:08.469] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.871502984s
+[2023-09-11 17:39:08.471] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.871502984s
+[2023-09-11 17:39:09.155] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8785046912s 
+[2023-09-11 17:39:09.155] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8785046912s
+[2023-09-11 17:39:09.156] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8785046912s
+[2023-09-11 17:39:10.425] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8885046912s 
+[2023-09-11 17:39:10.425] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8885046912s
+[2023-09-11 17:39:10.427] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8885046912s
+[2023-09-11 17:39:11.548] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.8985046912s 
+[2023-09-11 17:39:11.548] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8985046912s
+[2023-09-11 17:39:11.549] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.8985046912s
+[2023-09-11 17:39:12.551] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9085046912s 
+[2023-09-11 17:39:12.551] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9085046912s
+[2023-09-11 17:39:12.552] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9085046912s
+[2023-09-11 17:39:13.856] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9185046912s 
+[2023-09-11 17:39:13.856] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9185046912s
+[2023-09-11 17:39:13.857] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9185046912s
+[2023-09-11 17:39:15.218] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9285046912s 
+[2023-09-11 17:39:15.218] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9285046912s
+[2023-09-11 17:39:15.219] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9285046912s
+[2023-09-11 17:39:16.398] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9385046912s 
+[2023-09-11 17:39:16.398] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9385046912s
+[2023-09-11 17:39:16.399] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9385046912s
+[2023-09-11 17:39:17.925] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9515034568s 
+[2023-09-11 17:39:17.925] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9515034568s
+[2023-09-11 17:39:17.926] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9515034568s
+[2023-09-11 17:39:18.763] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9585046912s 
+[2023-09-11 17:39:18.764] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9585046912s
+[2023-09-11 17:39:18.764] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9585046912s
+[2023-09-11 17:39:20.089] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9685046912s 
+[2023-09-11 17:39:20.089] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9685046912s
+[2023-09-11 17:39:20.090] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9685046912s
+[2023-09-11 17:39:21.483] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9785046912s 
+[2023-09-11 17:39:21.483] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9785046912s
+[2023-09-11 17:39:21.484] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9785046912s
+[2023-09-11 17:39:22.621] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9885046912s 
+[2023-09-11 17:39:22.621] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9885046912s
+[2023-09-11 17:39:22.622] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9885046912s
+[2023-09-11 17:39:23.862] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 2.9985046912s 
+[2023-09-11 17:39:23.863] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9985046912s
+[2023-09-11 17:39:23.863] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 2.9985046912s
+[2023-09-11 17:39:27.324] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.019002984s 
+[2023-09-11 17:39:27.324] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.019002984s
+[2023-09-11 17:39:27.325] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.019002984s
+[2023-09-11 17:39:28.581] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.025002984s 
+[2023-09-11 17:39:28.581] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.025002984s
+[2023-09-11 17:39:28.582] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.025002984s
+[2023-09-11 17:39:30.358] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.035002984s 
+[2023-09-11 17:39:30.358] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.035002984s
+[2023-09-11 17:39:30.360] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.035002984s
+[2023-09-11 17:39:32.381] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.045002984s 
+[2023-09-11 17:39:32.381] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.045002984s
+[2023-09-11 17:39:32.382] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.045002984s
+[2023-09-11 17:39:33.547] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.051502984s 
+[2023-09-11 17:39:33.547] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.051502984s
+[2023-09-11 17:39:33.548] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.051502984s
+[2023-09-11 17:39:35.714] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.0610010168s 
+[2023-09-11 17:39:35.714] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.0610010168s
+[2023-09-11 17:39:35.715] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.0610010168s
+[2023-09-11 17:39:37.447] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.071002984s 
+[2023-09-11 17:39:37.447] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.071002984s
+[2023-09-11 17:39:37.448] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.071002984s
+[2023-09-11 17:39:38.715] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.080002984s 
+[2023-09-11 17:39:38.715] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.080002984s
+[2023-09-11 17:39:38.716] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.080002984s
+[2023-09-11 17:39:40.423] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.0900034568s 
+[2023-09-11 17:39:40.423] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.0900034568s
+[2023-09-11 17:39:40.424] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.0900034568s
+[2023-09-11 17:39:42.442] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.100002984s 
+[2023-09-11 17:39:42.442] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.100002984s
+[2023-09-11 17:39:42.446] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.100002984s
+[2023-09-11 17:39:44.000] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.110002984s 
+[2023-09-11 17:39:44.001] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.110002984s
+[2023-09-11 17:39:44.002] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.110002984s
+[2023-09-11 17:39:45.798] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.120002984s 
+[2023-09-11 17:39:45.798] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.120002984s
+[2023-09-11 17:39:45.799] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.120002984s
+[2023-09-11 17:39:47.801] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.130002984s 
+[2023-09-11 17:39:47.801] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.130002984s
+[2023-09-11 17:39:47.802] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.130002984s
+[2023-09-11 17:39:49.113] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.1410010168s 
+[2023-09-11 17:39:49.113] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.1410010168s
+[2023-09-11 17:39:49.114] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.1410010168s
+[2023-09-11 17:39:50.678] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.150002984s 
+[2023-09-11 17:39:50.678] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.150002984s
+[2023-09-11 17:39:50.679] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.150002984s
+[2023-09-11 17:39:52.193] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.160002984s 
+[2023-09-11 17:39:52.193] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.160002984s
+[2023-09-11 17:39:52.194] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.160002984s
+[2023-09-11 17:39:54.255] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.170002984s 
+[2023-09-11 17:39:54.255] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.170002984s
+[2023-09-11 17:39:54.257] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.170002984s
+[2023-09-11 17:39:56.062] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.180002984s 
+[2023-09-11 17:39:56.063] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.180002984s
+[2023-09-11 17:39:56.063] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.180002984s
+[2023-09-11 17:39:57.472] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.190002984s 
+[2023-09-11 17:39:57.472] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.190002984s
+[2023-09-11 17:39:57.473] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.190002984s
+[2023-09-11 17:39:59.038] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.200002984s 
+[2023-09-11 17:39:59.038] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.200002984s
+[2023-09-11 17:39:59.039] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.200002984s
+[2023-09-11 17:40:01.045] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.210002984s 
+[2023-09-11 17:40:01.045] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.210002984s
+[2023-09-11 17:40:01.046] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.210002984s
+[2023-09-11 17:40:02.706] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.2200034568s 
+[2023-09-11 17:40:02.707] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.2200034568s
+[2023-09-11 17:40:02.708] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.2200034568s
+[2023-09-11 17:40:04.109] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.230002984s 
+[2023-09-11 17:40:04.109] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.230002984s
+[2023-09-11 17:40:04.110] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.230002984s
+[2023-09-11 17:40:06.322] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.2400034568s 
+[2023-09-11 17:40:06.322] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.2400034568s
+[2023-09-11 17:40:06.323] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.2400034568s
+[2023-09-11 17:40:09.284] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.250002984s 
+[2023-09-11 17:40:09.284] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.250002984s
+[2023-09-11 17:40:09.285] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.250002984s
+[2023-09-11 17:40:10.928] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.260002984s 
+[2023-09-11 17:40:10.928] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.260002984s
+[2023-09-11 17:40:10.929] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.260002984s
+[2023-09-11 17:40:12.175] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.2700034568s 
+[2023-09-11 17:40:12.175] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.2700034568s
+[2023-09-11 17:40:12.176] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.2700034568s
+[2023-09-11 17:40:13.830] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.280002984s 
+[2023-09-11 17:40:13.830] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.280002984s
+[2023-09-11 17:40:13.831] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.280002984s
+[2023-09-11 17:40:16.621] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.290002984s 
+[2023-09-11 17:40:16.621] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.290002984s
+[2023-09-11 17:40:16.622] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.290002984s
+[2023-09-11 17:40:20.564] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.303002984s 
+[2023-09-11 17:40:20.564] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.303002984s
+[2023-09-11 17:40:20.565] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.303002984s
+[2023-09-11 17:40:22.098] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.310002984s 
+[2023-09-11 17:40:22.099] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.310002984s
+[2023-09-11 17:40:22.100] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.310002984s
+[2023-09-11 17:40:23.824] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.320002984s 
+[2023-09-11 17:40:23.824] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.320002984s
+[2023-09-11 17:40:23.825] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.320002984s
+[2023-09-11 17:40:26.274] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.330002984s 
+[2023-09-11 17:40:26.274] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.330002984s
+[2023-09-11 17:40:26.275] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.330002984s
+[2023-09-11 17:40:27.940] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.340002984s 
+[2023-09-11 17:40:27.940] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.340002984s
+[2023-09-11 17:40:27.941] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.340002984s
+[2023-09-11 17:40:30.520] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.350002984s 
+[2023-09-11 17:40:30.521] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.350002984s
+[2023-09-11 17:40:30.522] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.350002984s
+[2023-09-11 17:40:31.872] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.360002984s 
+[2023-09-11 17:40:31.872] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.360002984s
+[2023-09-11 17:40:31.873] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.360002984s
+[2023-09-11 17:40:33.599] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.370002984s 
+[2023-09-11 17:40:33.599] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.370002984s
+[2023-09-11 17:40:33.600] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.370002984s
+[2023-09-11 17:40:35.871] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.380002984s 
+[2023-09-11 17:40:35.871] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.380002984s
+[2023-09-11 17:40:35.872] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.380002984s
+[2023-09-11 17:40:37.415] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.390002984s 
+[2023-09-11 17:40:37.416] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.390002984s
+[2023-09-11 17:40:37.417] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.390002984s
+[2023-09-11 17:40:39.205] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.401002984s 
+[2023-09-11 17:40:39.205] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.401002984s
+[2023-09-11 17:40:39.206] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.401002984s
+[2023-09-11 17:40:41.037] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.410002984s 
+[2023-09-11 17:40:41.037] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.410002984s
+[2023-09-11 17:40:41.038] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.410002984s
+[2023-09-11 17:40:42.701] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.420002984s 
+[2023-09-11 17:40:42.701] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.420002984s
+[2023-09-11 17:40:42.702] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.420002984s
+[2023-09-11 17:40:44.329] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.430002984s 
+[2023-09-11 17:40:44.329] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.430002984s
+[2023-09-11 17:40:44.330] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.430002984s
+[2023-09-11 17:40:46.555] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.441002984s 
+[2023-09-11 17:40:46.555] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.441002984s
+[2023-09-11 17:40:46.556] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.441002984s
+[2023-09-11 17:40:47.820] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.450002984s 
+[2023-09-11 17:40:47.820] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.450002984s
+[2023-09-11 17:40:47.821] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.450002984s
+[2023-09-11 17:40:49.614] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.460002984s 
+[2023-09-11 17:40:49.614] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.460002984s
+[2023-09-11 17:40:49.615] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.460002984s
+[2023-09-11 17:40:51.621] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.470002984s 
+[2023-09-11 17:40:51.621] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.470002984s
+[2023-09-11 17:40:51.622] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.470002984s
+[2023-09-11 17:40:53.125] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.480002984s 
+[2023-09-11 17:40:53.125] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.480002984s
+[2023-09-11 17:40:53.126] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.480002984s
+[2023-09-11 17:40:55.079] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.490002984s 
+[2023-09-11 17:40:55.079] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.490002984s
+[2023-09-11 17:40:55.080] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.490002984s
+[2023-09-11 17:40:57.224] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.500002984s 
+[2023-09-11 17:40:57.224] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.500002984s
+[2023-09-11 17:40:57.226] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.500002984s
+[2023-09-11 17:40:58.948] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.510002984s 
+[2023-09-11 17:40:58.948] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.510002984s
+[2023-09-11 17:40:58.949] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.510002984s
+[2023-09-11 17:41:00.744] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.520002984s 
+[2023-09-11 17:41:00.744] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.520002984s
+[2023-09-11 17:41:00.745] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.520002984s
+[2023-09-11 17:41:02.899] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.530002984s 
+[2023-09-11 17:41:02.899] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.530002984s
+[2023-09-11 17:41:02.900] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.530002984s
+[2023-09-11 17:41:04.266] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.540002984s 
+[2023-09-11 17:41:04.266] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.540002984s
+[2023-09-11 17:41:04.267] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.540002984s
+[2023-09-11 17:41:05.853] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.550002984s 
+[2023-09-11 17:41:05.853] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.550002984s
+[2023-09-11 17:41:05.854] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.550002984s
+[2023-09-11 17:41:07.594] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.560002984s 
+[2023-09-11 17:41:07.594] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.560002984s
+[2023-09-11 17:41:07.595] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.560002984s
+[2023-09-11 17:41:09.510] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.570002984s 
+[2023-09-11 17:41:09.510] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.570002984s
+[2023-09-11 17:41:09.511] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.570002984s
+[2023-09-11 17:41:11.358] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.580002984s 
+[2023-09-11 17:41:11.358] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.580002984s
+[2023-09-11 17:41:11.360] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.580002984s
+[2023-09-11 17:41:13.035] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.590002984s 
+[2023-09-11 17:41:13.035] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.590002984s
+[2023-09-11 17:41:13.036] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.590002984s
+[2023-09-11 17:41:14.669] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.600002984s 
+[2023-09-11 17:41:14.669] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.600002984s
+[2023-09-11 17:41:14.670] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.600002984s
+[2023-09-11 17:41:16.803] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.610002984s 
+[2023-09-11 17:41:16.803] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.610002984s
+[2023-09-11 17:41:16.804] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.610002984s
+[2023-09-11 17:41:18.135] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.6200034568s 
+[2023-09-11 17:41:18.135] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.6200034568s
+[2023-09-11 17:41:18.136] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.6200034568s
+[2023-09-11 17:41:19.932] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.630002984s 
+[2023-09-11 17:41:19.932] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.630002984s
+[2023-09-11 17:41:19.933] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.630002984s
+[2023-09-11 17:41:21.902] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.640002984s 
+[2023-09-11 17:41:21.902] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.640002984s
+[2023-09-11 17:41:21.903] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.640002984s
+[2023-09-11 17:41:23.526] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.650002984s 
+[2023-09-11 17:41:23.526] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.650002984s
+[2023-09-11 17:41:23.527] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.650002984s
+[2023-09-11 17:41:25.105] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.6610010168s 
+[2023-09-11 17:41:25.105] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.6610010168s
+[2023-09-11 17:41:25.106] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.6610010168s
+[2023-09-11 17:41:26.672] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.670002984s 
+[2023-09-11 17:41:26.672] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.670002984s
+[2023-09-11 17:41:26.673] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.670002984s
+[2023-09-11 17:41:28.709] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.680002984s 
+[2023-09-11 17:41:28.709] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.680002984s
+[2023-09-11 17:41:28.710] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.680002984s
+[2023-09-11 17:41:30.347] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.690002984s 
+[2023-09-11 17:41:30.347] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.690002984s
+[2023-09-11 17:41:30.349] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.690002984s
+[2023-09-11 17:41:32.941] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.702502984s 
+[2023-09-11 17:41:32.941] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.702502984s
+[2023-09-11 17:41:32.945] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.702502984s
+[2023-09-11 17:41:34.438] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.7110010168s 
+[2023-09-11 17:41:34.438] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.7110010168s
+[2023-09-11 17:41:34.439] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.7110010168s
+[2023-09-11 17:41:35.815] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.721002984s 
+[2023-09-11 17:41:35.815] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.721002984s
+[2023-09-11 17:41:35.816] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.721002984s
+[2023-09-11 17:41:37.559] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.730002984s 
+[2023-09-11 17:41:37.559] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.730002984s
+[2023-09-11 17:41:37.560] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.730002984s
+[2023-09-11 17:41:39.860] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.743002984s 
+[2023-09-11 17:41:39.860] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.743002984s
+[2023-09-11 17:41:39.861] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.743002984s
+[2023-09-11 17:41:41.232] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.7510010168s 
+[2023-09-11 17:41:41.232] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.7510010168s
+[2023-09-11 17:41:41.233] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.7510010168s
+[2023-09-11 17:41:42.735] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.760002984s 
+[2023-09-11 17:41:42.735] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.760002984s
+[2023-09-11 17:41:42.736] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.760002984s
+[2023-09-11 17:41:44.408] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.770002984s 
+[2023-09-11 17:41:44.408] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.770002984s
+[2023-09-11 17:41:44.409] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.770002984s
+[2023-09-11 17:41:46.532] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.781002984s 
+[2023-09-11 17:41:46.532] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.781002984s
+[2023-09-11 17:41:46.533] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.781002984s
+[2023-09-11 17:41:48.136] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.790002984s 
+[2023-09-11 17:41:48.136] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.790002984s
+[2023-09-11 17:41:48.137] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.790002984s
+[2023-09-11 17:41:49.866] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.800002984s 
+[2023-09-11 17:41:49.866] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.800002984s
+[2023-09-11 17:41:49.867] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.800002984s
+[2023-09-11 17:41:52.243] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.8110010168s 
+[2023-09-11 17:41:52.243] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.8110010168s
+[2023-09-11 17:41:52.244] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.8110010168s
+[2023-09-11 17:41:53.479] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.820002984s 
+[2023-09-11 17:41:53.479] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.820002984s
+[2023-09-11 17:41:53.480] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.820002984s
+[2023-09-11 17:41:55.999] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.831002984s 
+[2023-09-11 17:41:55.999] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.831002984s
+[2023-09-11 17:41:56.000] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.831002984s
+[2023-09-11 17:41:58.535] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.840002984s 
+[2023-09-11 17:41:58.535] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.840002984s
+[2023-09-11 17:41:58.536] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.840002984s
+[2023-09-11 17:41:59.898] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.850002984s 
+[2023-09-11 17:41:59.898] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.850002984s
+[2023-09-11 17:41:59.899] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.850002984s
+[2023-09-11 17:42:01.789] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.860002984s 
+[2023-09-11 17:42:01.790] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.860002984s
+[2023-09-11 17:42:01.792] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.860002984s
+[2023-09-11 17:42:03.454] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.8700034568s 
+[2023-09-11 17:42:03.454] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.8700034568s
+[2023-09-11 17:42:03.455] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.8700034568s
+[2023-09-11 17:42:05.596] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.880002984s 
+[2023-09-11 17:42:05.596] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.880002984s
+[2023-09-11 17:42:05.597] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.880002984s
+[2023-09-11 17:42:07.355] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.890002984s 
+[2023-09-11 17:42:07.355] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.890002984s
+[2023-09-11 17:42:07.356] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.890002984s
+[2023-09-11 17:42:08.885] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.900002984s 
+[2023-09-11 17:42:08.885] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.900002984s
+[2023-09-11 17:42:08.886] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.900002984s
+[2023-09-11 17:42:10.923] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.910002984s 
+[2023-09-11 17:42:10.923] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.910002984s
+[2023-09-11 17:42:10.924] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.910002984s
+[2023-09-11 17:42:12.380] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.920002984s 
+[2023-09-11 17:42:12.380] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.920002984s
+[2023-09-11 17:42:12.381] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.920002984s
+[2023-09-11 17:42:14.113] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.930002984s 
+[2023-09-11 17:42:14.113] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.930002984s
+[2023-09-11 17:42:14.114] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.930002984s
+[2023-09-11 17:42:16.096] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.9400034568s 
+[2023-09-11 17:42:16.096] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.9400034568s
+[2023-09-11 17:42:16.099] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.9400034568s
+[2023-09-11 17:42:17.573] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.950002984s 
+[2023-09-11 17:42:17.573] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.950002984s
+[2023-09-11 17:42:17.574] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.950002984s
+[2023-09-11 17:42:19.369] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.960002984s 
+[2023-09-11 17:42:19.369] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.960002984s
+[2023-09-11 17:42:19.370] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.960002984s
+[2023-09-11 17:42:21.441] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.970002984s 
+[2023-09-11 17:42:21.441] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.970002984s
+[2023-09-11 17:42:21.442] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.970002984s
+[2023-09-11 17:42:23.038] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.980002984s 
+[2023-09-11 17:42:23.038] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.980002984s
+[2023-09-11 17:42:23.039] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.980002984s
+[2023-09-11 17:42:24.845] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 3.990002984s 
+[2023-09-11 17:42:24.845] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.990002984s
+[2023-09-11 17:42:24.847] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 3.990002984s
+[2023-09-11 17:42:26.959] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.000002984s 
+[2023-09-11 17:42:26.959] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.000002984s
+[2023-09-11 17:42:26.960] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.000002984s
+[2023-09-11 17:42:28.478] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.0120046912s 
+[2023-09-11 17:42:28.478] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0120046912s
+[2023-09-11 17:42:28.479] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0120046912s
+[2023-09-11 17:42:30.556] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.025002984s 
+[2023-09-11 17:42:30.556] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.025002984s
+[2023-09-11 17:42:30.557] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.025002984s
+[2023-09-11 17:42:32.583] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.0355034568s 
+[2023-09-11 17:42:32.583] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0355034568s
+[2023-09-11 17:42:32.584] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0355034568s
+[2023-09-11 17:42:33.517] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.0415063984s 
+[2023-09-11 17:42:33.517] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0415063984s
+[2023-09-11 17:42:33.519] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0415063984s
+[2023-09-11 17:42:35.366] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.0515010168s 
+[2023-09-11 17:42:35.366] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0515010168s
+[2023-09-11 17:42:35.368] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0515010168s
+[2023-09-11 17:42:36.888] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.059505164s 
+[2023-09-11 17:42:36.888] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.059505164s
+[2023-09-11 17:42:36.889] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.059505164s
+[2023-09-11 17:42:38.469] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.069005164s 
+[2023-09-11 17:42:38.469] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.069005164s
+[2023-09-11 17:42:38.470] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.069005164s
+[2023-09-11 17:42:40.248] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.082002984s 
+[2023-09-11 17:42:40.248] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.082002984s
+[2023-09-11 17:42:40.249] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.082002984s
+[2023-09-11 17:42:41.572] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.0930046912s 
+[2023-09-11 17:42:41.572] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0930046912s
+[2023-09-11 17:42:41.573] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.0930046912s
+[2023-09-11 17:42:42.946] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.102003428s 
+[2023-09-11 17:42:42.946] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.102003428s
+[2023-09-11 17:42:42.947] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.102003428s
+[2023-09-11 17:42:43.713] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.107002984s 
+[2023-09-11 17:42:43.713] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.107002984s
+[2023-09-11 17:42:43.714] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.107002984s
+[2023-09-11 17:42:45.585] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.1200046912s 
+[2023-09-11 17:42:45.585] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.1200046912s
+[2023-09-11 17:42:45.586] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.1200046912s
+[2023-09-11 17:42:47.257] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.1290046912s 
+[2023-09-11 17:42:47.257] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.1290046912s
+[2023-09-11 17:42:47.258] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.1290046912s
+[2023-09-11 17:42:49.461] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.142002984s 
+[2023-09-11 17:42:49.461] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.142002984s
+[2023-09-11 17:42:49.462] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.142002984s
+[2023-09-11 17:42:50.938] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.155003428s 
+[2023-09-11 17:42:50.938] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.155003428s
+[2023-09-11 17:42:50.939] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.155003428s
+[2023-09-11 17:42:52.003] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.161502984s 
+[2023-09-11 17:42:52.003] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.161502984s
+[2023-09-11 17:42:52.004] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.161502984s
+[2023-09-11 17:42:53.378] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.170002984s 
+[2023-09-11 17:42:53.378] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.170002984s
+[2023-09-11 17:42:53.380] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.170002984s
+[2023-09-11 17:42:55.117] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.1790034568s 
+[2023-09-11 17:42:55.117] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.1790034568s
+[2023-09-11 17:42:55.118] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.1790034568s
+[2023-09-11 17:42:57.212] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.1920046912s 
+[2023-09-11 17:42:57.212] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.1920046912s
+[2023-09-11 17:42:57.213] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.1920046912s
+[2023-09-11 17:42:59.253] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.206502984s 
+[2023-09-11 17:42:59.253] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.206502984s
+[2023-09-11 17:42:59.254] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.206502984s
+[2023-09-11 17:42:59.839] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.210003428s 
+[2023-09-11 17:42:59.839] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.210003428s
+[2023-09-11 17:42:59.840] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.210003428s
+[2023-09-11 17:43:01.311] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.2200010168s 
+[2023-09-11 17:43:01.311] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.2200010168s
+[2023-09-11 17:43:01.312] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.2200010168s
+[2023-09-11 17:43:02.719] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.231002984s 
+[2023-09-11 17:43:02.719] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.231002984s
+[2023-09-11 17:43:02.720] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.231002984s
+[2023-09-11 17:43:03.985] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.239502984s 
+[2023-09-11 17:43:03.985] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.239502984s
+[2023-09-11 17:43:03.986] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.239502984s
+[2023-09-11 17:43:05.618] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.250003428s 
+[2023-09-11 17:43:05.618] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.250003428s
+[2023-09-11 17:43:05.620] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.250003428s
+[2023-09-11 17:43:07.272] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.260002984s 
+[2023-09-11 17:43:07.272] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.260002984s
+[2023-09-11 17:43:07.273] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.260002984s
+[2023-09-11 17:43:08.722] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.269502984s 
+[2023-09-11 17:43:08.722] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.269502984s
+[2023-09-11 17:43:08.723] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.269502984s
+[2023-09-11 17:43:10.171] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.2800034568s 
+[2023-09-11 17:43:10.171] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.2800034568s
+[2023-09-11 17:43:10.172] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.2800034568s
+[2023-09-11 17:43:11.951] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.2900046912s 
+[2023-09-11 17:43:11.951] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.2900046912s
+[2023-09-11 17:43:11.952] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.2900046912s
+[2023-09-11 17:43:13.672] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.299502984s 
+[2023-09-11 17:43:13.672] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.299502984s
+[2023-09-11 17:43:13.673] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.299502984s
+[2023-09-11 17:43:15.284] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.310002984s 
+[2023-09-11 17:43:15.284] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.310002984s
+[2023-09-11 17:43:15.285] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.310002984s
+[2023-09-11 17:43:16.683] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.320005164s 
+[2023-09-11 17:43:16.684] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.320005164s
+[2023-09-11 17:43:16.685] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.320005164s
+[2023-09-11 17:43:18.173] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.329502984s 
+[2023-09-11 17:43:18.173] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.329502984s
+[2023-09-11 17:43:18.175] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.329502984s
+[2023-09-11 17:43:19.902] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.3400046912s 
+[2023-09-11 17:43:19.902] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.3400046912s
+[2023-09-11 17:43:19.903] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.3400046912s
+[2023-09-11 17:43:21.427] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.3500046912s 
+[2023-09-11 17:43:21.427] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.3500046912s
+[2023-09-11 17:43:21.428] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.3500046912s
+[2023-09-11 17:43:23.086] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.359502984s 
+[2023-09-11 17:43:23.086] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.359502984s
+[2023-09-11 17:43:23.087] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.359502984s
+[2023-09-11 17:43:25.019] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.3715046912s 
+[2023-09-11 17:43:25.019] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.3715046912s
+[2023-09-11 17:43:25.020] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.3715046912s
+[2023-09-11 17:43:26.396] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.381002984s 
+[2023-09-11 17:43:26.396] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.381002984s
+[2023-09-11 17:43:26.397] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.381002984s
+[2023-09-11 17:43:27.683] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.389502984s 
+[2023-09-11 17:43:27.683] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.389502984s
+[2023-09-11 17:43:27.684] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.389502984s
+[2023-09-11 17:43:29.288] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.400003428s 
+[2023-09-11 17:43:29.288] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.400003428s
+[2023-09-11 17:43:29.289] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.400003428s
+[2023-09-11 17:43:31.039] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.4100046912s 
+[2023-09-11 17:43:31.039] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4100046912s
+[2023-09-11 17:43:31.040] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4100046912s
+[2023-09-11 17:43:32.689] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.422502984s 
+[2023-09-11 17:43:32.689] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.422502984s
+[2023-09-11 17:43:32.690] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.422502984s
+[2023-09-11 17:43:33.381] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.427002984s 
+[2023-09-11 17:43:33.381] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.427002984s
+[2023-09-11 17:43:33.382] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.427002984s
+[2023-09-11 17:43:35.460] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.4400046912s 
+[2023-09-11 17:43:35.460] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4400046912s
+[2023-09-11 17:43:35.462] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4400046912s
+[2023-09-11 17:43:37.057] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.4500046912s 
+[2023-09-11 17:43:37.057] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4500046912s
+[2023-09-11 17:43:37.058] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4500046912s
+[2023-09-11 17:43:38.835] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.4620046912s 
+[2023-09-11 17:43:38.836] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4620046912s
+[2023-09-11 17:43:38.837] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4620046912s
+[2023-09-11 17:43:39.583] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.467002984s 
+[2023-09-11 17:43:39.583] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.467002984s
+[2023-09-11 17:43:39.584] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.467002984s
+[2023-09-11 17:43:41.416] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.4795046912s 
+[2023-09-11 17:43:41.416] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4795046912s
+[2023-09-11 17:43:41.417] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4795046912s
+[2023-09-11 17:43:43.375] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.4900046624s 
+[2023-09-11 17:43:43.375] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4900046624s
+[2023-09-11 17:43:43.379] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.4900046624s
+[2023-09-11 17:43:44.836] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5000046912s 
+[2023-09-11 17:43:44.836] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5000046912s
+[2023-09-11 17:43:44.838] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5000046912s
+[2023-09-11 17:43:46.228] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5100059256s 
+[2023-09-11 17:43:46.228] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5100059256s
+[2023-09-11 17:43:46.229] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5100059256s
+[2023-09-11 17:43:47.576] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5200046624s 
+[2023-09-11 17:43:47.576] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5200046624s
+[2023-09-11 17:43:47.577] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5200046624s
+[2023-09-11 17:43:49.213] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5300046912s 
+[2023-09-11 17:43:49.213] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5300046912s
+[2023-09-11 17:43:49.214] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5300046912s
+[2023-09-11 17:43:50.888] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5410010168s 
+[2023-09-11 17:43:50.888] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5410010168s
+[2023-09-11 17:43:50.889] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5410010168s
+[2023-09-11 17:43:52.233] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.550005164s 
+[2023-09-11 17:43:52.233] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.550005164s
+[2023-09-11 17:43:52.234] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.550005164s
+[2023-09-11 17:43:53.944] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5600046912s 
+[2023-09-11 17:43:53.944] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5600046912s
+[2023-09-11 17:43:53.946] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5600046912s
+[2023-09-11 17:43:55.652] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5700046912s 
+[2023-09-11 17:43:55.652] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5700046912s
+[2023-09-11 17:43:55.653] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5700046912s
+[2023-09-11 17:43:57.072] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5800046912s 
+[2023-09-11 17:43:57.072] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5800046912s
+[2023-09-11 17:43:57.073] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5800046912s
+[2023-09-11 17:43:58.476] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.5900046912s 
+[2023-09-11 17:43:58.476] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5900046912s
+[2023-09-11 17:43:58.477] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.5900046912s
+[2023-09-11 17:43:59.953] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.6000046624s 
+[2023-09-11 17:43:59.953] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6000046624s
+[2023-09-11 17:43:59.954] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6000046624s
+[2023-09-11 17:44:01.608] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.6100046912s 
+[2023-09-11 17:44:01.608] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6100046912s
+[2023-09-11 17:44:01.609] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6100046912s
+[2023-09-11 17:44:03.134] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.6200046912s 
+[2023-09-11 17:44:03.134] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6200046912s
+[2023-09-11 17:44:03.135] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6200046912s
+[2023-09-11 17:44:04.577] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.6295046912s 
+[2023-09-11 17:44:04.577] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6295046912s
+[2023-09-11 17:44:04.578] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6295046912s
+[2023-09-11 17:44:06.198] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.6390046912s 
+[2023-09-11 17:44:06.198] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6390046912s
+[2023-09-11 17:44:06.199] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6390046912s
+[2023-09-11 17:44:08.411] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.652002984s 
+[2023-09-11 17:44:08.411] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.652002984s
+[2023-09-11 17:44:08.412] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.652002984s
+[2023-09-11 17:44:09.116] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.656502984s 
+[2023-09-11 17:44:09.116] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.656502984s
+[2023-09-11 17:44:09.117] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.656502984s
+[2023-09-11 17:44:11.142] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.6690046912s 
+[2023-09-11 17:44:11.142] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6690046912s
+[2023-09-11 17:44:11.143] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6690046912s
+[2023-09-11 17:44:13.284] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.6840059256s 
+[2023-09-11 17:44:13.284] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6840059256s
+[2023-09-11 17:44:13.285] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.6840059256s
+[2023-09-11 17:44:13.663] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.687002984s 
+[2023-09-11 17:44:13.663] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.687002984s
+[2023-09-11 17:44:13.664] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.687002984s
+[2023-09-11 17:44:15.654] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.7010019624s 
+[2023-09-11 17:44:15.654] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7010019624s
+[2023-09-11 17:44:15.655] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7010019624s
+[2023-09-11 17:44:17.051] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.710005164s 
+[2023-09-11 17:44:17.052] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.710005164s
+[2023-09-11 17:44:17.053] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.710005164s
+[2023-09-11 17:44:19.041] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.7220051352s 
+[2023-09-11 17:44:19.042] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7220051352s
+[2023-09-11 17:44:19.043] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7220051352s
+[2023-09-11 17:44:20.153] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.7290046912s 
+[2023-09-11 17:44:20.153] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7290046912s
+[2023-09-11 17:44:20.154] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7290046912s
+[2023-09-11 17:44:21.936] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.7400046912s 
+[2023-09-11 17:44:21.936] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7400046912s
+[2023-09-11 17:44:21.937] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7400046912s
+[2023-09-11 17:44:23.342] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.749502984s 
+[2023-09-11 17:44:23.342] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.749502984s
+[2023-09-11 17:44:23.343] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.749502984s
+[2023-09-11 17:44:24.936] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.759503428s 
+[2023-09-11 17:44:24.936] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.759503428s
+[2023-09-11 17:44:24.937] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.759503428s
+[2023-09-11 17:44:26.519] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.7690034568s 
+[2023-09-11 17:44:26.519] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7690034568s
+[2023-09-11 17:44:26.520] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7690034568s
+[2023-09-11 17:44:28.129] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.7800046912s 
+[2023-09-11 17:44:28.129] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7800046912s
+[2023-09-11 17:44:28.130] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.7800046912s
+[2023-09-11 17:44:29.834] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.790002984s 
+[2023-09-11 17:44:29.834] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.790002984s
+[2023-09-11 17:44:29.835] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.790002984s
+[2023-09-11 17:44:31.360] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.8000046912s 
+[2023-09-11 17:44:31.360] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8000046912s
+[2023-09-11 17:44:31.361] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8000046912s
+[2023-09-11 17:44:33.098] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.809502984s 
+[2023-09-11 17:44:33.099] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.809502984s
+[2023-09-11 17:44:33.101] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.809502984s
+[2023-09-11 17:44:35.364] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.8200010168s 
+[2023-09-11 17:44:35.364] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8200010168s
+[2023-09-11 17:44:35.365] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8200010168s
+[2023-09-11 17:44:37.158] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.830002984s 
+[2023-09-11 17:44:37.158] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.830002984s
+[2023-09-11 17:44:37.159] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.830002984s
+[2023-09-11 17:44:39.112] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.839502984s 
+[2023-09-11 17:44:39.112] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.839502984s
+[2023-09-11 17:44:39.118] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.839502984s
+[2023-09-11 17:44:42.540] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.850003428s 
+[2023-09-11 17:44:42.540] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.850003428s
+[2023-09-11 17:44:42.544] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.850003428s
+[2023-09-11 17:44:44.294] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.860002984s 
+[2023-09-11 17:44:44.294] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.860002984s
+[2023-09-11 17:44:44.295] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.860002984s
+[2023-09-11 17:44:47.787] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.8700046912s 
+[2023-09-11 17:44:47.787] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8700046912s
+[2023-09-11 17:44:47.788] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8700046912s
+[2023-09-11 17:44:50.915] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.8800059256s 
+[2023-09-11 17:44:50.915] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8800059256s
+[2023-09-11 17:44:50.921] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8800059256s
+[2023-09-11 17:44:53.468] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.8900046912s 
+[2023-09-11 17:44:53.468] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8900046912s
+[2023-09-11 17:44:53.470] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.8900046912s
+[2023-09-11 17:44:55.028] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.899502984s 
+[2023-09-11 17:44:55.028] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.899502984s
+[2023-09-11 17:44:55.029] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.899502984s
+[2023-09-11 17:44:56.721] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.9100046912s 
+[2023-09-11 17:44:56.721] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.9100046912s
+[2023-09-11 17:44:56.722] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.9100046912s
+[2023-09-11 17:44:59.518] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.922003428s 
+[2023-09-11 17:44:59.518] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.922003428s
+[2023-09-11 17:44:59.519] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.922003428s
+[2023-09-11 17:45:01.211] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.929502984s 
+[2023-09-11 17:45:01.211] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.929502984s
+[2023-09-11 17:45:01.213] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.929502984s
+[2023-09-11 17:45:03.591] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.941502984s 
+[2023-09-11 17:45:03.591] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.941502984s
+[2023-09-11 17:45:03.592] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.941502984s
+[2023-09-11 17:45:05.426] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.952003428s 
+[2023-09-11 17:45:05.426] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.952003428s
+[2023-09-11 17:45:05.427] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.952003428s
+[2023-09-11 17:45:06.739] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.959502984s 
+[2023-09-11 17:45:06.739] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.959502984s
+[2023-09-11 17:45:06.740] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.959502984s
+[2023-09-11 17:45:08.922] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.9700046912s 
+[2023-09-11 17:45:08.922] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.9700046912s
+[2023-09-11 17:45:08.923] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.9700046912s
+[2023-09-11 17:45:11.869] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.9830046912s 
+[2023-09-11 17:45:11.869] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.9830046912s
+[2023-09-11 17:45:11.873] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.9830046912s
+[2023-09-11 17:45:14.481] [ueLogger<none>_801_16] [info] handleMessage: Received Ping packet from UE - 4.9920046912s 
+[2023-09-11 17:45:14.481] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.9920046912s
+[2023-09-11 17:45:14.482] [ueLogger<none>_801_16] [info] handleMessage: sending ack/Pong packet - 4.9920046912s
